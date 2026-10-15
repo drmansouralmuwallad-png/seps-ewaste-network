@@ -1,0 +1,8135 @@
+{
+ "n": 430,
+ "n_feasible": 420,
+ "best": {
+  "sites": [
+   "Riyadh",
+   "Buraidah",
+   "Ha'il"
+  ],
+  "Z1": 14436401.79000007,
+  "used": [
+   "Riyadh",
+   "Ha'il"
+  ],
+  "stage1": false
+ },
+ "stage1": {
+  "sites": [
+   "Riyadh",
+   "Jeddah",
+   "Sakakah"
+  ],
+  "Z1": 11688095.281800047,
+  "used": [
+   "Riyadh",
+   "Jeddah",
+   "Sakakah"
+  ],
+  "stage1": true
+ },
+ "n_within_01pct": 22,
+ "min": 11542332.038700096,
+ "rows": [
+  {
+   "sites": [
+    "Riyadh",
+    "Jeddah",
+    "Tabuk"
+   ],
+   "Z1": 11689808.30832006,
+   "used": [
+    "Riyadh",
+    "Jeddah",
+    "Tabuk"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Jeddah",
+    "Ha'il"
+   ],
+   "Z1": 14436401.790000044,
+   "used": [
+    "Riyadh",
+    "Ha'il"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Jeddah",
+    "Sakakah"
+   ],
+   "Z1": 11688095.281800047,
+   "used": [
+    "Riyadh",
+    "Jeddah",
+    "Sakakah"
+   ],
+   "stage1": true
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Jeddah",
+    "Yanbu"
+   ],
+   "Z1": 11691299.451720059,
+   "used": [
+    "Riyadh",
+    "Jeddah",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Jeddah",
+    "Qurayyat"
+   ],
+   "Z1": 11687882.747970097,
+   "used": [
+    "Riyadh",
+    "Jeddah",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Mecca",
+    "Tabuk"
+   ],
+   "Z1": 11687012.42979005,
+   "used": [
+    "Riyadh",
+    "Mecca",
+    "Tabuk"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Mecca",
+    "Ha'il"
+   ],
+   "Z1": 14436401.790000044,
+   "used": [
+    "Riyadh",
+    "Ha'il"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Mecca",
+    "Sakakah"
+   ],
+   "Z1": 11685277.172550045,
+   "used": [
+    "Riyadh",
+    "Mecca",
+    "Sakakah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Mecca",
+    "Yanbu"
+   ],
+   "Z1": 11689219.587630078,
+   "used": [
+    "Riyadh",
+    "Mecca",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Mecca",
+    "Qurayyat"
+   ],
+   "Z1": 11685086.869440086,
+   "used": [
+    "Riyadh",
+    "Mecca",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Medina",
+    "Tabuk"
+   ],
+   "Z1": 11660155.182525016,
+   "used": [
+    "Riyadh",
+    "Medina",
+    "Tabuk"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Medina",
+    "Buraidah"
+   ],
+   "Z1": 11662667.143680021,
+   "used": [
+    "Riyadh",
+    "Medina",
+    "Buraidah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Medina",
+    "Ha'il"
+   ],
+   "Z1": 14436401.790000044,
+   "used": [
+    "Riyadh",
+    "Ha'il"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Medina",
+    "Hafar Al-Batin"
+   ],
+   "Z1": 11661061.109475039,
+   "used": [
+    "Riyadh",
+    "Medina",
+    "Hafar Al-Batin"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Medina",
+    "Sakakah"
+   ],
+   "Z1": 11658368.48047506,
+   "used": [
+    "Riyadh",
+    "Medina",
+    "Sakakah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Medina",
+    "Arar"
+   ],
+   "Z1": 11657711.644725047,
+   "used": [
+    "Riyadh",
+    "Medina",
+    "Arar"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Medina",
+    "Al Mubarraz"
+   ],
+   "Z1": 11660460.086280033,
+   "used": [
+    "Riyadh",
+    "Medina",
+    "Al Mubarraz"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Medina",
+    "Yanbu"
+   ],
+   "Z1": 11667478.560059994,
+   "used": [
+    "Riyadh",
+    "Medina",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Medina",
+    "Qurayyat"
+   ],
+   "Z1": 11658514.871775039,
+   "used": [
+    "Riyadh",
+    "Medina",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Dammam",
+    "Tabuk"
+   ],
+   "Z1": 11629763.259149991,
+   "used": [
+    "Riyadh",
+    "Dammam",
+    "Tabuk"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Dammam",
+    "Ha'il"
+   ],
+   "Z1": 14436401.790000044,
+   "used": [
+    "Riyadh",
+    "Ha'il"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Dammam",
+    "Sakakah"
+   ],
+   "Z1": 11631697.942800045,
+   "used": [
+    "Riyadh",
+    "Dammam",
+    "Sakakah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Dammam",
+    "Yanbu"
+   ],
+   "Z1": 11669216.48733005,
+   "used": [
+    "Riyadh",
+    "Dammam",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Dammam",
+    "Qurayyat"
+   ],
+   "Z1": 11629728.732900051,
+   "used": [
+    "Riyadh",
+    "Dammam",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Ta'if",
+    "Tabuk"
+   ],
+   "Z1": 11679628.413000032,
+   "used": [
+    "Riyadh",
+    "Ta'if",
+    "Tabuk"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Ta'if",
+    "Ha'il"
+   ],
+   "Z1": 14436401.790000044,
+   "used": [
+    "Riyadh",
+    "Ha'il"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Ta'if",
+    "Sakakah"
+   ],
+   "Z1": 11677841.19480002,
+   "used": [
+    "Riyadh",
+    "Ta'if",
+    "Sakakah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Ta'if",
+    "Yanbu"
+   ],
+   "Z1": 11683217.851230063,
+   "used": [
+    "Riyadh",
+    "Ta'if",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Ta'if",
+    "Qurayyat"
+   ],
+   "Z1": 11677702.852650061,
+   "used": [
+    "Riyadh",
+    "Ta'if",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Tabuk",
+    "Abha"
+   ],
+   "Z1": 11632300.705560029,
+   "used": [
+    "Riyadh",
+    "Tabuk",
+    "Abha"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Tabuk",
+    "Buraidah"
+   ],
+   "Z1": 11611649.170199998,
+   "used": [
+    "Riyadh",
+    "Tabuk",
+    "Buraidah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Tabuk",
+    "Jizan"
+   ],
+   "Z1": 11623490.834160022,
+   "used": [
+    "Riyadh",
+    "Tabuk",
+    "Jizan"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Tabuk",
+    "Khamis Mushait"
+   ],
+   "Z1": 11629702.791480012,
+   "used": [
+    "Riyadh",
+    "Tabuk",
+    "Khamis Mushait"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Tabuk",
+    "Al Khobar"
+   ],
+   "Z1": 11627286.959775023,
+   "used": [
+    "Riyadh",
+    "Tabuk",
+    "Al Khobar"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Tabuk",
+    "Najran"
+   ],
+   "Z1": 11607659.136795014,
+   "used": [
+    "Riyadh",
+    "Tabuk",
+    "Najran"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Tabuk",
+    "Ha'il"
+   ],
+   "Z1": 14436401.790000044,
+   "used": [
+    "Riyadh",
+    "Ha'il"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Tabuk",
+    "Al Jubayl"
+   ],
+   "Z1": 11624226.42742505,
+   "used": [
+    "Riyadh",
+    "Tabuk",
+    "Al Jubayl"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Tabuk",
+    "Hafar Al-Batin"
+   ],
+   "Z1": 11614281.528224982,
+   "used": [
+    "Riyadh",
+    "Tabuk",
+    "Hafar Al-Batin"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Tabuk",
+    "Sakakah"
+   ],
+   "feasible": false,
+   "status": "Infeasible (sol_status -1)"
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Tabuk",
+    "Arar"
+   ],
+   "feasible": false,
+   "status": "Infeasible (sol_status -1)"
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Tabuk",
+    "Al Mubarraz"
+   ],
+   "Z1": 11626666.233600073,
+   "used": [
+    "Riyadh",
+    "Tabuk",
+    "Al Mubarraz"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Tabuk",
+    "Yanbu"
+   ],
+   "feasible": false,
+   "status": "Infeasible (sol_status -1)"
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Tabuk",
+    "Al Kharj"
+   ],
+   "Z1": 11626688.435025044,
+   "used": [
+    "Riyadh",
+    "Tabuk",
+    "Al Kharj"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Tabuk",
+    "Qurayyat"
+   ],
+   "feasible": false,
+   "status": "Infeasible (sol_status -1)"
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Tabuk",
+    "Al Qunfudhah"
+   ],
+   "Z1": 11667389.024774998,
+   "used": [
+    "Riyadh",
+    "Tabuk",
+    "Al Qunfudhah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Tabuk",
+    "Bisha"
+   ],
+   "Z1": 11652150.163349994,
+   "used": [
+    "Riyadh",
+    "Tabuk",
+    "Bisha"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Abha",
+    "Ha'il"
+   ],
+   "Z1": 14436401.790000044,
+   "used": [
+    "Riyadh",
+    "Ha'il"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Abha",
+    "Sakakah"
+   ],
+   "Z1": 11622259.51788009,
+   "used": [
+    "Riyadh",
+    "Abha",
+    "Sakakah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Abha",
+    "Yanbu"
+   ],
+   "Z1": 11674697.076840065,
+   "used": [
+    "Riyadh",
+    "Abha",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Abha",
+    "Qurayyat"
+   ],
+   "Z1": 11627701.80906009,
+   "used": [
+    "Riyadh",
+    "Abha",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Buraidah",
+    "Ha'il"
+   ],
+   "Z1": 14436401.79000007,
+   "used": [
+    "Riyadh",
+    "Ha'il"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Buraidah",
+    "Sakakah"
+   ],
+   "Z1": 11614308.863249995,
+   "used": [
+    "Riyadh",
+    "Buraidah",
+    "Sakakah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Buraidah",
+    "Yanbu"
+   ],
+   "Z1": 11669398.981229993,
+   "used": [
+    "Riyadh",
+    "Buraidah",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Buraidah",
+    "Qurayyat"
+   ],
+   "Z1": 11612177.526450075,
+   "used": [
+    "Riyadh",
+    "Buraidah",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Jizan",
+    "Ha'il"
+   ],
+   "Z1": 14436401.790000066,
+   "used": [
+    "Riyadh",
+    "Ha'il"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Jizan",
+    "Sakakah"
+   ],
+   "Z1": 11613449.64648009,
+   "used": [
+    "Riyadh",
+    "Jizan",
+    "Sakakah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Jizan",
+    "Yanbu"
+   ],
+   "Z1": 11671520.000610024,
+   "used": [
+    "Riyadh",
+    "Jizan",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Jizan",
+    "Qurayyat"
+   ],
+   "Z1": 11618891.93766009,
+   "used": [
+    "Riyadh",
+    "Jizan",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Khamis Mushait",
+    "Ha'il"
+   ],
+   "Z1": 14436401.790000044,
+   "used": [
+    "Riyadh",
+    "Ha'il"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Khamis Mushait",
+    "Sakakah"
+   ],
+   "Z1": 11619700.27320014,
+   "used": [
+    "Riyadh",
+    "Khamis Mushait",
+    "Sakakah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Khamis Mushait",
+    "Yanbu"
+   ],
+   "Z1": 11674184.671020046,
+   "used": [
+    "Riyadh",
+    "Khamis Mushait",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Khamis Mushait",
+    "Qurayyat"
+   ],
+   "Z1": 11625103.894980073,
+   "used": [
+    "Riyadh",
+    "Khamis Mushait",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Al Khobar",
+    "Ha'il"
+   ],
+   "Z1": 14436401.790000051,
+   "used": [
+    "Riyadh",
+    "Ha'il"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Al Khobar",
+    "Sakakah"
+   ],
+   "Z1": 11629216.286625095,
+   "used": [
+    "Riyadh",
+    "Al Khobar",
+    "Sakakah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Al Khobar",
+    "Yanbu"
+   ],
+   "Z1": 11668538.447580054,
+   "used": [
+    "Riyadh",
+    "Al Khobar",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Al Khobar",
+    "Qurayyat"
+   ],
+   "Z1": 11627252.433525085,
+   "used": [
+    "Riyadh",
+    "Al Khobar",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Najran",
+    "Ha'il"
+   ],
+   "Z1": 14436401.790000044,
+   "used": [
+    "Riyadh",
+    "Ha'il"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Najran",
+    "Sakakah"
+   ],
+   "Z1": 11597182.650525078,
+   "used": [
+    "Riyadh",
+    "Najran",
+    "Sakakah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Najran",
+    "Yanbu"
+   ],
+   "Z1": 11670364.908525035,
+   "used": [
+    "Riyadh",
+    "Najran",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Najran",
+    "Qurayyat"
+   ],
+   "Z1": 11602624.941705078,
+   "used": [
+    "Riyadh",
+    "Najran",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Ha'il",
+    "Al Jubayl"
+   ],
+   "Z1": 14436401.790000044,
+   "used": [
+    "Riyadh",
+    "Ha'il"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Ha'il",
+    "Hafar Al-Batin"
+   ],
+   "Z1": 14436401.790000051,
+   "used": [
+    "Riyadh",
+    "Ha'il"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Ha'il",
+    "Sakakah"
+   ],
+   "Z1": 14436401.790000044,
+   "used": [
+    "Riyadh",
+    "Ha'il"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Ha'il",
+    "Arar"
+   ],
+   "Z1": 14436401.790000048,
+   "used": [
+    "Riyadh",
+    "Ha'il"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Ha'il",
+    "Al Mubarraz"
+   ],
+   "Z1": 14436401.790000044,
+   "used": [
+    "Riyadh",
+    "Ha'il"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Ha'il",
+    "Yanbu"
+   ],
+   "Z1": 14436401.790000044,
+   "used": [
+    "Riyadh",
+    "Ha'il"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Ha'il",
+    "Al Kharj"
+   ],
+   "Z1": 14436401.790000044,
+   "used": [
+    "Riyadh",
+    "Ha'il"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Ha'il",
+    "Qurayyat"
+   ],
+   "Z1": 14436401.790000044,
+   "used": [
+    "Riyadh",
+    "Ha'il"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Ha'il",
+    "Al Qunfudhah"
+   ],
+   "Z1": 14436401.790000044,
+   "used": [
+    "Riyadh",
+    "Ha'il"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Ha'il",
+    "Bisha"
+   ],
+   "Z1": 14436401.790000044,
+   "used": [
+    "Riyadh",
+    "Ha'il"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Al Jubayl",
+    "Sakakah"
+   ],
+   "Z1": 11626123.278675094,
+   "used": [
+    "Riyadh",
+    "Al Jubayl",
+    "Sakakah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Al Jubayl",
+    "Yanbu"
+   ],
+   "Z1": 11667560.280555047,
+   "used": [
+    "Riyadh",
+    "Al Jubayl",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Al Jubayl",
+    "Qurayyat"
+   ],
+   "Z1": 11624191.901175104,
+   "used": [
+    "Riyadh",
+    "Al Jubayl",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Hafar Al-Batin",
+    "Sakakah"
+   ],
+   "Z1": 11616265.09267506,
+   "used": [
+    "Riyadh",
+    "Hafar Al-Batin",
+    "Sakakah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Hafar Al-Batin",
+    "Yanbu"
+   ],
+   "Z1": 11666688.769650042,
+   "used": [
+    "Riyadh",
+    "Hafar Al-Batin",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Hafar Al-Batin",
+    "Qurayyat"
+   ],
+   "Z1": 11614247.001975037,
+   "used": [
+    "Riyadh",
+    "Hafar Al-Batin",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Sakakah",
+    "Arar"
+   ],
+   "feasible": false,
+   "status": "Infeasible (sol_status -1)"
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Sakakah",
+    "Al Mubarraz"
+   ],
+   "Z1": 11628493.446450062,
+   "used": [
+    "Riyadh",
+    "Sakakah",
+    "Al Mubarraz"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Sakakah",
+    "Yanbu"
+   ],
+   "feasible": false,
+   "status": "Infeasible (sol_status -1)"
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Sakakah",
+    "Al Kharj"
+   ],
+   "Z1": 11628379.028550044,
+   "used": [
+    "Riyadh",
+    "Sakakah",
+    "Al Kharj"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Sakakah",
+    "Qurayyat"
+   ],
+   "feasible": false,
+   "status": "Infeasible (sol_status -1)"
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Sakakah",
+    "Al Qunfudhah"
+   ],
+   "Z1": 11665194.871125005,
+   "used": [
+    "Riyadh",
+    "Sakakah",
+    "Al Qunfudhah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Sakakah",
+    "Bisha"
+   ],
+   "Z1": 11649956.0097,
+   "used": [
+    "Riyadh",
+    "Sakakah",
+    "Bisha"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Arar",
+    "Yanbu"
+   ],
+   "feasible": false,
+   "status": "Infeasible (sol_status -1)"
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Arar",
+    "Qurayyat"
+   ],
+   "feasible": false,
+   "status": "Infeasible (sol_status -1)"
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Al Mubarraz",
+    "Yanbu"
+   ],
+   "Z1": 11667738.129105054,
+   "used": [
+    "Riyadh",
+    "Al Mubarraz",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Al Mubarraz",
+    "Qurayyat"
+   ],
+   "Z1": 11626548.676950097,
+   "used": [
+    "Riyadh",
+    "Al Mubarraz",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Yanbu",
+    "Al Kharj"
+   ],
+   "Z1": 11671841.863380037,
+   "used": [
+    "Riyadh",
+    "Yanbu",
+    "Al Kharj"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Yanbu",
+    "Qurayyat"
+   ],
+   "feasible": false,
+   "status": "Infeasible (sol_status -1)"
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Yanbu",
+    "Al Qunfudhah"
+   ],
+   "Z1": 11674936.195185058,
+   "used": [
+    "Riyadh",
+    "Yanbu",
+    "Al Qunfudhah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Yanbu",
+    "Bisha"
+   ],
+   "Z1": 11674699.314420044,
+   "used": [
+    "Riyadh",
+    "Yanbu",
+    "Bisha"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Al Kharj",
+    "Qurayyat"
+   ],
+   "Z1": 11626888.017675057,
+   "used": [
+    "Riyadh",
+    "Al Kharj",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Qurayyat",
+    "Al Qunfudhah"
+   ],
+   "Z1": 11665463.464425072,
+   "used": [
+    "Riyadh",
+    "Qurayyat",
+    "Al Qunfudhah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Riyadh",
+    "Qurayyat",
+    "Bisha"
+   ],
+   "Z1": 11650224.603000067,
+   "used": [
+    "Riyadh",
+    "Qurayyat",
+    "Bisha"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jeddah",
+    "Medina",
+    "Buraidah"
+   ],
+   "Z1": 11647333.494795017,
+   "used": [
+    "Jeddah",
+    "Medina",
+    "Buraidah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jeddah",
+    "Medina",
+    "Hafar Al-Batin"
+   ],
+   "Z1": 11632406.241495065,
+   "used": [
+    "Jeddah",
+    "Medina",
+    "Hafar Al-Batin"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jeddah",
+    "Medina",
+    "Al Mubarraz"
+   ],
+   "Z1": 11662140.193590052,
+   "used": [
+    "Jeddah",
+    "Medina",
+    "Al Mubarraz"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jeddah",
+    "Dammam",
+    "Tabuk"
+   ],
+   "Z1": 11666134.13996999,
+   "used": [
+    "Jeddah",
+    "Dammam",
+    "Tabuk"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jeddah",
+    "Dammam",
+    "Ha'il"
+   ],
+   "Z1": 11664860.929050073,
+   "used": [
+    "Jeddah",
+    "Dammam",
+    "Ha'il"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jeddah",
+    "Dammam",
+    "Sakakah"
+   ],
+   "Z1": 11664446.948850043,
+   "used": [
+    "Jeddah",
+    "Dammam",
+    "Sakakah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jeddah",
+    "Dammam",
+    "Yanbu"
+   ],
+   "Z1": 11667625.283369996,
+   "used": [
+    "Jeddah",
+    "Dammam",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jeddah",
+    "Dammam",
+    "Qurayyat"
+   ],
+   "Z1": 11664208.579620019,
+   "used": [
+    "Jeddah",
+    "Dammam",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jeddah",
+    "Tabuk",
+    "Buraidah"
+   ],
+   "Z1": 11644834.345320024,
+   "used": [
+    "Jeddah",
+    "Tabuk",
+    "Buraidah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jeddah",
+    "Tabuk",
+    "Al Khobar"
+   ],
+   "Z1": 11662818.49699507,
+   "used": [
+    "Jeddah",
+    "Tabuk",
+    "Al Khobar"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jeddah",
+    "Tabuk",
+    "Al Jubayl"
+   ],
+   "Z1": 11656115.696370065,
+   "used": [
+    "Jeddah",
+    "Tabuk",
+    "Al Jubayl"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jeddah",
+    "Tabuk",
+    "Hafar Al-Batin"
+   ],
+   "Z1": 11629607.348370038,
+   "used": [
+    "Jeddah",
+    "Tabuk",
+    "Hafar Al-Batin"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jeddah",
+    "Tabuk",
+    "Al Mubarraz"
+   ],
+   "Z1": 11659663.564995065,
+   "used": [
+    "Jeddah",
+    "Tabuk",
+    "Al Mubarraz"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jeddah",
+    "Tabuk",
+    "Al Kharj"
+   ],
+   "Z1": 11685147.334320076,
+   "used": [
+    "Jeddah",
+    "Tabuk",
+    "Al Kharj"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jeddah",
+    "Buraidah",
+    "Ha'il"
+   ],
+   "Z1": 11644029.54750003,
+   "used": [
+    "Jeddah",
+    "Buraidah",
+    "Ha'il"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jeddah",
+    "Buraidah",
+    "Sakakah"
+   ],
+   "Z1": 11643206.69280003,
+   "used": [
+    "Jeddah",
+    "Buraidah",
+    "Sakakah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jeddah",
+    "Buraidah",
+    "Yanbu"
+   ],
+   "Z1": 11646357.286350012,
+   "used": [
+    "Jeddah",
+    "Buraidah",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jeddah",
+    "Buraidah",
+    "Qurayyat"
+   ],
+   "Z1": 11642935.76985003,
+   "used": [
+    "Jeddah",
+    "Buraidah",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jeddah",
+    "Al Khobar",
+    "Ha'il"
+   ],
+   "Z1": 11661556.83667519,
+   "used": [
+    "Jeddah",
+    "Al Khobar",
+    "Ha'il"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jeddah",
+    "Al Khobar",
+    "Sakakah"
+   ],
+   "Z1": 11661142.521675147,
+   "used": [
+    "Jeddah",
+    "Al Khobar",
+    "Sakakah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jeddah",
+    "Al Khobar",
+    "Yanbu"
+   ],
+   "Z1": 11664309.64039509,
+   "used": [
+    "Jeddah",
+    "Al Khobar",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jeddah",
+    "Al Khobar",
+    "Qurayyat"
+   ],
+   "Z1": 11660894.978925109,
+   "used": [
+    "Jeddah",
+    "Al Khobar",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jeddah",
+    "Ha'il",
+    "Al Jubayl"
+   ],
+   "Z1": 11654842.485450104,
+   "used": [
+    "Jeddah",
+    "Ha'il",
+    "Al Jubayl"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jeddah",
+    "Ha'il",
+    "Hafar Al-Batin"
+   ],
+   "Z1": 11628361.256250046,
+   "used": [
+    "Jeddah",
+    "Ha'il",
+    "Hafar Al-Batin"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jeddah",
+    "Ha'il",
+    "Al Mubarraz"
+   ],
+   "Z1": 11658362.733075142,
+   "used": [
+    "Jeddah",
+    "Ha'il",
+    "Al Mubarraz"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jeddah",
+    "Ha'il",
+    "Al Kharj"
+   ],
+   "Z1": 11684357.937300108,
+   "used": [
+    "Jeddah",
+    "Ha'il",
+    "Al Kharj"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jeddah",
+    "Al Jubayl",
+    "Sakakah"
+   ],
+   "Z1": 11654437.544850096,
+   "used": [
+    "Jeddah",
+    "Al Jubayl",
+    "Sakakah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jeddah",
+    "Al Jubayl",
+    "Yanbu"
+   ],
+   "Z1": 11657606.839770101,
+   "used": [
+    "Jeddah",
+    "Al Jubayl",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jeddah",
+    "Al Jubayl",
+    "Qurayyat"
+   ],
+   "Z1": 11654192.010900088,
+   "used": [
+    "Jeddah",
+    "Al Jubayl",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jeddah",
+    "Hafar Al-Batin",
+    "Sakakah"
+   ],
+   "Z1": 11628348.966300096,
+   "used": [
+    "Jeddah",
+    "Hafar Al-Batin",
+    "Sakakah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jeddah",
+    "Hafar Al-Batin",
+    "Yanbu"
+   ],
+   "Z1": 11631170.493300034,
+   "used": [
+    "Jeddah",
+    "Hafar Al-Batin",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jeddah",
+    "Hafar Al-Batin",
+    "Qurayyat"
+   ],
+   "Z1": 11627681.788020082,
+   "used": [
+    "Jeddah",
+    "Hafar Al-Batin",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jeddah",
+    "Sakakah",
+    "Al Mubarraz"
+   ],
+   "Z1": 11657968.840875097,
+   "used": [
+    "Jeddah",
+    "Sakakah",
+    "Al Mubarraz"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jeddah",
+    "Sakakah",
+    "Al Kharj"
+   ],
+   "Z1": 11683473.1446001,
+   "used": [
+    "Jeddah",
+    "Sakakah",
+    "Al Kharj"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jeddah",
+    "Al Mubarraz",
+    "Yanbu"
+   ],
+   "Z1": 11661154.708395123,
+   "used": [
+    "Jeddah",
+    "Al Mubarraz",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jeddah",
+    "Al Mubarraz",
+    "Qurayyat"
+   ],
+   "Z1": 11657738.004645139,
+   "used": [
+    "Jeddah",
+    "Al Mubarraz",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jeddah",
+    "Yanbu",
+    "Al Kharj"
+   ],
+   "Z1": 11686638.477720112,
+   "used": [
+    "Jeddah",
+    "Yanbu",
+    "Al Kharj"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jeddah",
+    "Al Kharj",
+    "Qurayyat"
+   ],
+   "Z1": 11683221.77397012,
+   "used": [
+    "Jeddah",
+    "Al Kharj",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Mecca",
+    "Medina",
+    "Buraidah"
+   ],
+   "Z1": 11645286.477375008,
+   "used": [
+    "Mecca",
+    "Medina",
+    "Buraidah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Mecca",
+    "Medina",
+    "Hafar Al-Batin"
+   ],
+   "Z1": 11630359.224075064,
+   "used": [
+    "Mecca",
+    "Medina",
+    "Hafar Al-Batin"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Mecca",
+    "Medina",
+    "Al Mubarraz"
+   ],
+   "Z1": 11660060.329500102,
+   "used": [
+    "Mecca",
+    "Medina",
+    "Al Mubarraz"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Mecca",
+    "Dammam",
+    "Tabuk"
+   ],
+   "Z1": 11663338.261439972,
+   "used": [
+    "Mecca",
+    "Dammam",
+    "Tabuk"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Mecca",
+    "Dammam",
+    "Ha'il"
+   ],
+   "Z1": 11662042.819800057,
+   "used": [
+    "Mecca",
+    "Dammam",
+    "Ha'il"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Mecca",
+    "Dammam",
+    "Sakakah"
+   ],
+   "Z1": 11661628.839600038,
+   "used": [
+    "Mecca",
+    "Dammam",
+    "Sakakah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Mecca",
+    "Dammam",
+    "Yanbu"
+   ],
+   "Z1": 11665545.419279993,
+   "used": [
+    "Mecca",
+    "Dammam",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Mecca",
+    "Dammam",
+    "Qurayyat"
+   ],
+   "Z1": 11661412.70109,
+   "used": [
+    "Mecca",
+    "Dammam",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Mecca",
+    "Tabuk",
+    "Buraidah"
+   ],
+   "Z1": 11642038.466790006,
+   "used": [
+    "Mecca",
+    "Tabuk",
+    "Buraidah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Mecca",
+    "Tabuk",
+    "Al Khobar"
+   ],
+   "Z1": 11660022.618465051,
+   "used": [
+    "Mecca",
+    "Tabuk",
+    "Al Khobar"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Mecca",
+    "Tabuk",
+    "Al Jubayl"
+   ],
+   "Z1": 11653319.817840055,
+   "used": [
+    "Mecca",
+    "Tabuk",
+    "Al Jubayl"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Mecca",
+    "Tabuk",
+    "Hafar Al-Batin"
+   ],
+   "Z1": 11626811.469840027,
+   "used": [
+    "Mecca",
+    "Tabuk",
+    "Hafar Al-Batin"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Mecca",
+    "Tabuk",
+    "Al Mubarraz"
+   ],
+   "Z1": 11656867.686465062,
+   "used": [
+    "Mecca",
+    "Tabuk",
+    "Al Mubarraz"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Mecca",
+    "Tabuk",
+    "Al Kharj"
+   ],
+   "Z1": 11682351.455790058,
+   "used": [
+    "Mecca",
+    "Tabuk",
+    "Al Kharj"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Mecca",
+    "Buraidah",
+    "Ha'il"
+   ],
+   "Z1": 11641228.780890033,
+   "used": [
+    "Mecca",
+    "Buraidah",
+    "Ha'il"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Mecca",
+    "Buraidah",
+    "Sakakah"
+   ],
+   "Z1": 11640388.583550021,
+   "used": [
+    "Mecca",
+    "Buraidah",
+    "Sakakah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Mecca",
+    "Buraidah",
+    "Yanbu"
+   ],
+   "Z1": 11644277.422260076,
+   "used": [
+    "Mecca",
+    "Buraidah",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Mecca",
+    "Buraidah",
+    "Qurayyat"
+   ],
+   "Z1": 11640117.660600021,
+   "used": [
+    "Mecca",
+    "Buraidah",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Mecca",
+    "Al Khobar",
+    "Ha'il"
+   ],
+   "Z1": 11658738.72742515,
+   "used": [
+    "Mecca",
+    "Al Khobar",
+    "Ha'il"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Mecca",
+    "Al Khobar",
+    "Sakakah"
+   ],
+   "Z1": 11658324.412425138,
+   "used": [
+    "Mecca",
+    "Al Khobar",
+    "Sakakah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Mecca",
+    "Al Khobar",
+    "Yanbu"
+   ],
+   "Z1": 11662229.776305132,
+   "used": [
+    "Mecca",
+    "Al Khobar",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Mecca",
+    "Al Khobar",
+    "Qurayyat"
+   ],
+   "Z1": 11658097.05811511,
+   "used": [
+    "Mecca",
+    "Al Khobar",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Mecca",
+    "Ha'il",
+    "Al Jubayl"
+   ],
+   "Z1": 11652024.376200087,
+   "used": [
+    "Mecca",
+    "Ha'il",
+    "Al Jubayl"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Mecca",
+    "Ha'il",
+    "Hafar Al-Batin"
+   ],
+   "Z1": 11625543.147000037,
+   "used": [
+    "Mecca",
+    "Ha'il",
+    "Hafar Al-Batin"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Mecca",
+    "Ha'il",
+    "Al Mubarraz"
+   ],
+   "Z1": 11655544.623825118,
+   "used": [
+    "Mecca",
+    "Ha'il",
+    "Al Mubarraz"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Mecca",
+    "Ha'il",
+    "Al Kharj"
+   ],
+   "Z1": 11681541.769890092,
+   "used": [
+    "Mecca",
+    "Ha'il",
+    "Al Kharj"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Mecca",
+    "Al Jubayl",
+    "Sakakah"
+   ],
+   "Z1": 11651619.435600247,
+   "used": [
+    "Mecca",
+    "Al Jubayl",
+    "Sakakah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Mecca",
+    "Al Jubayl",
+    "Yanbu"
+   ],
+   "Z1": 11655526.975680098,
+   "used": [
+    "Mecca",
+    "Al Jubayl",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Mecca",
+    "Al Jubayl",
+    "Qurayyat"
+   ],
+   "Z1": 11651394.257490106,
+   "used": [
+    "Mecca",
+    "Al Jubayl",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Mecca",
+    "Hafar Al-Batin",
+    "Sakakah"
+   ],
+   "Z1": 11625592.78110011,
+   "used": [
+    "Mecca",
+    "Hafar Al-Batin",
+    "Sakakah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Mecca",
+    "Hafar Al-Batin",
+    "Yanbu"
+   ],
+   "Z1": 11629090.629210092,
+   "used": [
+    "Mecca",
+    "Hafar Al-Batin",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Mecca",
+    "Hafar Al-Batin",
+    "Qurayyat"
+   ],
+   "Z1": 11624885.909490064,
+   "used": [
+    "Mecca",
+    "Hafar Al-Batin",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Mecca",
+    "Sakakah",
+    "Al Mubarraz"
+   ],
+   "Z1": 11655150.731625095,
+   "used": [
+    "Mecca",
+    "Sakakah",
+    "Al Mubarraz"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Mecca",
+    "Sakakah",
+    "Al Kharj"
+   ],
+   "Z1": 11680655.035350092,
+   "used": [
+    "Mecca",
+    "Sakakah",
+    "Al Kharj"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Mecca",
+    "Al Mubarraz",
+    "Yanbu"
+   ],
+   "Z1": 11659074.84430524,
+   "used": [
+    "Mecca",
+    "Al Mubarraz",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Mecca",
+    "Al Mubarraz",
+    "Qurayyat"
+   ],
+   "Z1": 11654942.126115106,
+   "used": [
+    "Mecca",
+    "Al Mubarraz",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Mecca",
+    "Yanbu",
+    "Al Kharj"
+   ],
+   "Z1": 11684558.613630135,
+   "used": [
+    "Mecca",
+    "Yanbu",
+    "Al Kharj"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Mecca",
+    "Al Kharj",
+    "Qurayyat"
+   ],
+   "Z1": 11680425.89544011,
+   "used": [
+    "Mecca",
+    "Al Kharj",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Medina",
+    "Ta'if",
+    "Buraidah"
+   ],
+   "Z1": 11639313.673274986,
+   "used": [
+    "Medina",
+    "Ta'if",
+    "Buraidah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Medina",
+    "Ta'if",
+    "Hafar Al-Batin"
+   ],
+   "Z1": 11624386.419975027,
+   "used": [
+    "Medina",
+    "Ta'if",
+    "Hafar Al-Batin"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Medina",
+    "Ta'if",
+    "Al Mubarraz"
+   ],
+   "Z1": 11654058.59310009,
+   "used": [
+    "Medina",
+    "Ta'if",
+    "Al Mubarraz"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Medina",
+    "Abha",
+    "Buraidah"
+   ],
+   "Z1": 11623944.880155027,
+   "used": [
+    "Medina",
+    "Abha",
+    "Buraidah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Medina",
+    "Abha",
+    "Hafar Al-Batin"
+   ],
+   "Z1": 11609040.602505077,
+   "used": [
+    "Medina",
+    "Abha",
+    "Hafar Al-Batin"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Medina",
+    "Abha",
+    "Al Mubarraz"
+   ],
+   "Z1": 11638779.575205117,
+   "used": [
+    "Medina",
+    "Abha",
+    "Al Mubarraz"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Medina",
+    "Buraidah",
+    "Jizan"
+   ],
+   "Z1": 11620543.758554988,
+   "used": [
+    "Medina",
+    "Buraidah",
+    "Jizan"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Medina",
+    "Buraidah",
+    "Khamis Mushait"
+   ],
+   "Z1": 11623432.474335015,
+   "used": [
+    "Medina",
+    "Buraidah",
+    "Khamis Mushait"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Medina",
+    "Buraidah",
+    "Najran"
+   ],
+   "Z1": 11619112.173285,
+   "used": [
+    "Medina",
+    "Buraidah",
+    "Najran"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Medina",
+    "Buraidah",
+    "Al Qunfudhah"
+   ],
+   "Z1": 11629226.989064999,
+   "used": [
+    "Medina",
+    "Buraidah",
+    "Al Qunfudhah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Medina",
+    "Buraidah",
+    "Bisha"
+   ],
+   "Z1": 11623947.117735013,
+   "used": [
+    "Medina",
+    "Buraidah",
+    "Bisha"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Medina",
+    "Jizan",
+    "Hafar Al-Batin"
+   ],
+   "Z1": 11605639.480905049,
+   "used": [
+    "Medina",
+    "Jizan",
+    "Hafar Al-Batin"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Medina",
+    "Jizan",
+    "Al Mubarraz"
+   ],
+   "Z1": 11635378.453605063,
+   "used": [
+    "Medina",
+    "Jizan",
+    "Al Mubarraz"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Medina",
+    "Khamis Mushait",
+    "Hafar Al-Batin"
+   ],
+   "Z1": 11608528.196685046,
+   "used": [
+    "Medina",
+    "Khamis Mushait",
+    "Hafar Al-Batin"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Medina",
+    "Khamis Mushait",
+    "Al Mubarraz"
+   ],
+   "Z1": 11638267.169385193,
+   "used": [
+    "Medina",
+    "Khamis Mushait",
+    "Al Mubarraz"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Medina",
+    "Najran",
+    "Hafar Al-Batin"
+   ],
+   "Z1": 11604207.895635046,
+   "used": [
+    "Medina",
+    "Najran",
+    "Hafar Al-Batin"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Medina",
+    "Najran",
+    "Al Mubarraz"
+   ],
+   "Z1": 11633946.868335128,
+   "used": [
+    "Medina",
+    "Najran",
+    "Al Mubarraz"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Medina",
+    "Hafar Al-Batin",
+    "Al Qunfudhah"
+   ],
+   "Z1": 11614307.564505056,
+   "used": [
+    "Medina",
+    "Hafar Al-Batin",
+    "Al Qunfudhah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Medina",
+    "Hafar Al-Batin",
+    "Bisha"
+   ],
+   "Z1": 11609042.840085052,
+   "used": [
+    "Medina",
+    "Hafar Al-Batin",
+    "Bisha"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Medina",
+    "Al Mubarraz",
+    "Al Qunfudhah"
+   ],
+   "Z1": 11644046.53720507,
+   "used": [
+    "Medina",
+    "Al Mubarraz",
+    "Al Qunfudhah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Medina",
+    "Al Mubarraz",
+    "Bisha"
+   ],
+   "Z1": 11638781.812785052,
+   "used": [
+    "Medina",
+    "Al Mubarraz",
+    "Bisha"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Dammam",
+    "Ta'if",
+    "Tabuk"
+   ],
+   "Z1": 11655945.47288996,
+   "used": [
+    "Dammam",
+    "Ta'if",
+    "Tabuk"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Dammam",
+    "Ta'if",
+    "Ha'il"
+   ],
+   "Z1": 11654606.842050046,
+   "used": [
+    "Dammam",
+    "Ta'if",
+    "Ha'il"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Dammam",
+    "Ta'if",
+    "Sakakah"
+   ],
+   "Z1": 11654192.861850008,
+   "used": [
+    "Dammam",
+    "Ta'if",
+    "Sakakah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Dammam",
+    "Ta'if",
+    "Yanbu"
+   ],
+   "Z1": 11659543.682879984,
+   "used": [
+    "Dammam",
+    "Ta'if",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Dammam",
+    "Ta'if",
+    "Qurayyat"
+   ],
+   "Z1": 11654019.912539981,
+   "used": [
+    "Dammam",
+    "Ta'if",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Dammam",
+    "Tabuk",
+    "Abha"
+   ],
+   "Z1": 11607254.670494966,
+   "used": [
+    "Dammam",
+    "Tabuk",
+    "Abha"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Dammam",
+    "Tabuk",
+    "Jizan"
+   ],
+   "Z1": 11598444.799094968,
+   "used": [
+    "Dammam",
+    "Tabuk",
+    "Jizan"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Dammam",
+    "Tabuk",
+    "Khamis Mushait"
+   ],
+   "Z1": 11604656.75641495,
+   "used": [
+    "Dammam",
+    "Tabuk",
+    "Khamis Mushait"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Dammam",
+    "Tabuk",
+    "Najran"
+   ],
+   "Z1": 11582291.836019956,
+   "used": [
+    "Dammam",
+    "Tabuk",
+    "Najran"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Dammam",
+    "Tabuk",
+    "Al Qunfudhah"
+   ],
+   "Z1": 11643251.597849973,
+   "used": [
+    "Dammam",
+    "Tabuk",
+    "Al Qunfudhah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Dammam",
+    "Tabuk",
+    "Bisha"
+   ],
+   "Z1": 11627429.962619953,
+   "used": [
+    "Dammam",
+    "Tabuk",
+    "Bisha"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Dammam",
+    "Abha",
+    "Ha'il"
+   ],
+   "Z1": 11611483.558590017,
+   "used": [
+    "Dammam",
+    "Abha",
+    "Ha'il"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Dammam",
+    "Abha",
+    "Yanbu"
+   ],
+   "Z1": 11651022.908489995,
+   "used": [
+    "Dammam",
+    "Abha",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Dammam",
+    "Abha",
+    "Qurayyat"
+   ],
+   "Z1": 11602110.280170038,
+   "used": [
+    "Dammam",
+    "Abha",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Dammam",
+    "Jizan",
+    "Ha'il"
+   ],
+   "Z1": 11606820.949650027,
+   "used": [
+    "Dammam",
+    "Jizan",
+    "Ha'il"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Dammam",
+    "Jizan",
+    "Yanbu"
+   ],
+   "Z1": 11647621.786889978,
+   "used": [
+    "Dammam",
+    "Jizan",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Dammam",
+    "Jizan",
+    "Qurayyat"
+   ],
+   "Z1": 11593300.40877004,
+   "used": [
+    "Dammam",
+    "Jizan",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Dammam",
+    "Khamis Mushait",
+    "Ha'il"
+   ],
+   "Z1": 11611553.43135002,
+   "used": [
+    "Dammam",
+    "Khamis Mushait",
+    "Ha'il"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Dammam",
+    "Khamis Mushait",
+    "Yanbu"
+   ],
+   "Z1": 11650510.502669983,
+   "used": [
+    "Dammam",
+    "Khamis Mushait",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Dammam",
+    "Khamis Mushait",
+    "Qurayyat"
+   ],
+   "Z1": 11599512.366090015,
+   "used": [
+    "Dammam",
+    "Khamis Mushait",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Dammam",
+    "Najran",
+    "Ha'il"
+   ],
+   "Z1": 11608935.462750018,
+   "used": [
+    "Dammam",
+    "Najran",
+    "Ha'il"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Dammam",
+    "Najran",
+    "Yanbu"
+   ],
+   "Z1": 11646304.234499976,
+   "used": [
+    "Dammam",
+    "Najran",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Dammam",
+    "Najran",
+    "Qurayyat"
+   ],
+   "Z1": 11577147.445695028,
+   "used": [
+    "Dammam",
+    "Najran",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Dammam",
+    "Ha'il",
+    "Al Qunfudhah"
+   ],
+   "Z1": 11641876.741649993,
+   "used": [
+    "Dammam",
+    "Ha'il",
+    "Al Qunfudhah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Dammam",
+    "Ha'il",
+    "Bisha"
+   ],
+   "Z1": 11629228.646324985,
+   "used": [
+    "Dammam",
+    "Ha'il",
+    "Bisha"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Dammam",
+    "Sakakah",
+    "Al Qunfudhah"
+   ],
+   "Z1": 11641415.722050041,
+   "used": [
+    "Dammam",
+    "Sakakah",
+    "Al Qunfudhah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Dammam",
+    "Sakakah",
+    "Bisha"
+   ],
+   "Z1": 11625487.319100045,
+   "used": [
+    "Dammam",
+    "Sakakah",
+    "Bisha"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Dammam",
+    "Yanbu",
+    "Al Qunfudhah"
+   ],
+   "Z1": 11651262.026834987,
+   "used": [
+    "Dammam",
+    "Yanbu",
+    "Al Qunfudhah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Dammam",
+    "Yanbu",
+    "Bisha"
+   ],
+   "Z1": 11651025.146069974,
+   "used": [
+    "Dammam",
+    "Yanbu",
+    "Bisha"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Dammam",
+    "Qurayyat",
+    "Al Qunfudhah"
+   ],
+   "Z1": 11641326.03750005,
+   "used": [
+    "Dammam",
+    "Qurayyat",
+    "Al Qunfudhah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Dammam",
+    "Qurayyat",
+    "Bisha"
+   ],
+   "Z1": 11625504.402270027,
+   "used": [
+    "Dammam",
+    "Qurayyat",
+    "Bisha"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Ta'if",
+    "Tabuk",
+    "Buraidah"
+   ],
+   "Z1": 11634645.678239994,
+   "used": [
+    "Ta'if",
+    "Tabuk",
+    "Buraidah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Ta'if",
+    "Tabuk",
+    "Al Khobar"
+   ],
+   "Z1": 11652629.82991504,
+   "used": [
+    "Ta'if",
+    "Tabuk",
+    "Al Khobar"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Ta'if",
+    "Tabuk",
+    "Al Jubayl"
+   ],
+   "Z1": 11645927.029290035,
+   "used": [
+    "Ta'if",
+    "Tabuk",
+    "Al Jubayl"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Ta'if",
+    "Tabuk",
+    "Hafar Al-Batin"
+   ],
+   "Z1": 11619418.68129002,
+   "used": [
+    "Ta'if",
+    "Tabuk",
+    "Hafar Al-Batin"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Ta'if",
+    "Tabuk",
+    "Al Mubarraz"
+   ],
+   "Z1": 11649474.897915043,
+   "used": [
+    "Ta'if",
+    "Tabuk",
+    "Al Mubarraz"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Ta'if",
+    "Tabuk",
+    "Al Kharj"
+   ],
+   "Z1": 11674958.66724006,
+   "used": [
+    "Ta'if",
+    "Tabuk",
+    "Al Kharj"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Ta'if",
+    "Buraidah",
+    "Ha'il"
+   ],
+   "Z1": 11633835.992340028,
+   "used": [
+    "Ta'if",
+    "Buraidah",
+    "Ha'il"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Ta'if",
+    "Buraidah",
+    "Sakakah"
+   ],
+   "Z1": 11632952.605800003,
+   "used": [
+    "Ta'if",
+    "Buraidah",
+    "Sakakah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Ta'if",
+    "Buraidah",
+    "Yanbu"
+   ],
+   "Z1": 11638275.685860008,
+   "used": [
+    "Ta'if",
+    "Buraidah",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Ta'if",
+    "Buraidah",
+    "Qurayyat"
+   ],
+   "Z1": 11632720.117890038,
+   "used": [
+    "Ta'if",
+    "Buraidah",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Ta'if",
+    "Al Khobar",
+    "Ha'il"
+   ],
+   "Z1": 11651302.749675132,
+   "used": [
+    "Ta'if",
+    "Al Khobar",
+    "Ha'il"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Ta'if",
+    "Al Khobar",
+    "Sakakah"
+   ],
+   "Z1": 11650888.43467512,
+   "used": [
+    "Ta'if",
+    "Al Khobar",
+    "Sakakah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Ta'if",
+    "Al Khobar",
+    "Yanbu"
+   ],
+   "Z1": 11656228.039905079,
+   "used": [
+    "Ta'if",
+    "Al Khobar",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Ta'if",
+    "Al Khobar",
+    "Qurayyat"
+   ],
+   "Z1": 11650704.269565098,
+   "used": [
+    "Ta'if",
+    "Al Khobar",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Ta'if",
+    "Ha'il",
+    "Al Jubayl"
+   ],
+   "Z1": 11644588.39845007,
+   "used": [
+    "Ta'if",
+    "Ha'il",
+    "Al Jubayl"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Ta'if",
+    "Ha'il",
+    "Hafar Al-Batin"
+   ],
+   "Z1": 11618107.169250026,
+   "used": [
+    "Ta'if",
+    "Ha'il",
+    "Hafar Al-Batin"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Ta'if",
+    "Ha'il",
+    "Al Mubarraz"
+   ],
+   "Z1": 11648108.64608033,
+   "used": [
+    "Ta'if",
+    "Ha'il",
+    "Al Mubarraz"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Ta'if",
+    "Ha'il",
+    "Al Kharj"
+   ],
+   "Z1": 11674148.98134008,
+   "used": [
+    "Ta'if",
+    "Ha'il",
+    "Al Kharj"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Ta'if",
+    "Al Jubayl",
+    "Sakakah"
+   ],
+   "Z1": 11644183.457850069,
+   "used": [
+    "Ta'if",
+    "Al Jubayl",
+    "Sakakah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Ta'if",
+    "Al Jubayl",
+    "Yanbu"
+   ],
+   "Z1": 11649525.239280075,
+   "used": [
+    "Ta'if",
+    "Al Jubayl",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Ta'if",
+    "Al Jubayl",
+    "Qurayyat"
+   ],
+   "Z1": 11644001.46894008,
+   "used": [
+    "Ta'if",
+    "Al Jubayl",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Ta'if",
+    "Hafar Al-Batin",
+    "Sakakah"
+   ],
+   "Z1": 11618211.347849999,
+   "used": [
+    "Ta'if",
+    "Hafar Al-Batin",
+    "Sakakah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Ta'if",
+    "Hafar Al-Batin",
+    "Yanbu"
+   ],
+   "Z1": 11623088.892810024,
+   "used": [
+    "Ta'if",
+    "Hafar Al-Batin",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Ta'if",
+    "Hafar Al-Batin",
+    "Qurayyat"
+   ],
+   "Z1": 11617493.120940182,
+   "used": [
+    "Ta'if",
+    "Hafar Al-Batin",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Ta'if",
+    "Sakakah",
+    "Al Mubarraz"
+   ],
+   "Z1": 11647714.753875077,
+   "used": [
+    "Ta'if",
+    "Sakakah",
+    "Al Mubarraz"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Ta'if",
+    "Sakakah",
+    "Al Kharj"
+   ],
+   "Z1": 11673219.057600074,
+   "used": [
+    "Ta'if",
+    "Sakakah",
+    "Al Kharj"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Ta'if",
+    "Al Mubarraz",
+    "Yanbu"
+   ],
+   "Z1": 11653073.107905105,
+   "used": [
+    "Ta'if",
+    "Al Mubarraz",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Ta'if",
+    "Al Mubarraz",
+    "Qurayyat"
+   ],
+   "Z1": 11647549.337565087,
+   "used": [
+    "Ta'if",
+    "Al Mubarraz",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Ta'if",
+    "Yanbu",
+    "Al Kharj"
+   ],
+   "Z1": 11678556.877230132,
+   "used": [
+    "Ta'if",
+    "Yanbu",
+    "Al Kharj"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Ta'if",
+    "Al Kharj",
+    "Qurayyat"
+   ],
+   "Z1": 11673033.106890103,
+   "used": [
+    "Ta'if",
+    "Al Kharj",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Tabuk",
+    "Abha",
+    "Buraidah"
+   ],
+   "Z1": 11586964.907460004,
+   "used": [
+    "Tabuk",
+    "Abha",
+    "Buraidah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Tabuk",
+    "Abha",
+    "Al Khobar"
+   ],
+   "Z1": 11603939.027520053,
+   "used": [
+    "Tabuk",
+    "Abha",
+    "Al Khobar"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Tabuk",
+    "Abha",
+    "Al Jubayl"
+   ],
+   "Z1": 11597236.22689505,
+   "used": [
+    "Tabuk",
+    "Abha",
+    "Al Jubayl"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Tabuk",
+    "Abha",
+    "Hafar Al-Batin"
+   ],
+   "Z1": 11571171.401010029,
+   "used": [
+    "Tabuk",
+    "Abha",
+    "Hafar Al-Batin"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Tabuk",
+    "Abha",
+    "Al Mubarraz"
+   ],
+   "Z1": 11601071.370660067,
+   "used": [
+    "Tabuk",
+    "Abha",
+    "Al Mubarraz"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Tabuk",
+    "Abha",
+    "Al Kharj"
+   ],
+   "Z1": 11627402.163060062,
+   "used": [
+    "Tabuk",
+    "Abha",
+    "Al Kharj"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Tabuk",
+    "Buraidah",
+    "Jizan"
+   ],
+   "Z1": 11578155.036060005,
+   "used": [
+    "Tabuk",
+    "Buraidah",
+    "Jizan"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Tabuk",
+    "Buraidah",
+    "Khamis Mushait"
+   ],
+   "Z1": 11584366.993379995,
+   "used": [
+    "Tabuk",
+    "Buraidah",
+    "Khamis Mushait"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Tabuk",
+    "Buraidah",
+    "Najran"
+   ],
+   "Z1": 11561888.040104993,
+   "used": [
+    "Tabuk",
+    "Buraidah",
+    "Najran"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Tabuk",
+    "Buraidah",
+    "Al Qunfudhah"
+   ],
+   "Z1": 11622053.226674989,
+   "used": [
+    "Tabuk",
+    "Buraidah",
+    "Al Qunfudhah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Tabuk",
+    "Buraidah",
+    "Bisha"
+   ],
+   "Z1": 11606814.365249984,
+   "used": [
+    "Tabuk",
+    "Buraidah",
+    "Bisha"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Tabuk",
+    "Jizan",
+    "Al Khobar"
+   ],
+   "Z1": 11595129.156120054,
+   "used": [
+    "Tabuk",
+    "Jizan",
+    "Al Khobar"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Tabuk",
+    "Jizan",
+    "Al Jubayl"
+   ],
+   "Z1": 11588426.355495058,
+   "used": [
+    "Tabuk",
+    "Jizan",
+    "Al Jubayl"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Tabuk",
+    "Jizan",
+    "Hafar Al-Batin"
+   ],
+   "Z1": 11562361.52961003,
+   "used": [
+    "Tabuk",
+    "Jizan",
+    "Hafar Al-Batin"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Tabuk",
+    "Jizan",
+    "Al Mubarraz"
+   ],
+   "Z1": 11592261.499260075,
+   "used": [
+    "Tabuk",
+    "Jizan",
+    "Al Mubarraz"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Tabuk",
+    "Jizan",
+    "Al Kharj"
+   ],
+   "Z1": 11618592.291660063,
+   "used": [
+    "Tabuk",
+    "Jizan",
+    "Al Kharj"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Tabuk",
+    "Khamis Mushait",
+    "Al Khobar"
+   ],
+   "Z1": 11601341.113440037,
+   "used": [
+    "Tabuk",
+    "Khamis Mushait",
+    "Al Khobar"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Tabuk",
+    "Khamis Mushait",
+    "Al Jubayl"
+   ],
+   "Z1": 11594638.312815033,
+   "used": [
+    "Tabuk",
+    "Khamis Mushait",
+    "Al Jubayl"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Tabuk",
+    "Khamis Mushait",
+    "Hafar Al-Batin"
+   ],
+   "Z1": 11568573.48693001,
+   "used": [
+    "Tabuk",
+    "Khamis Mushait",
+    "Hafar Al-Batin"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Tabuk",
+    "Khamis Mushait",
+    "Al Mubarraz"
+   ],
+   "Z1": 11598473.456580058,
+   "used": [
+    "Tabuk",
+    "Khamis Mushait",
+    "Al Mubarraz"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Tabuk",
+    "Khamis Mushait",
+    "Al Kharj"
+   ],
+   "Z1": 11624804.248980038,
+   "used": [
+    "Tabuk",
+    "Khamis Mushait",
+    "Al Kharj"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Tabuk",
+    "Al Khobar",
+    "Najran"
+   ],
+   "Z1": 11578976.193045042,
+   "used": [
+    "Tabuk",
+    "Al Khobar",
+    "Najran"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Tabuk",
+    "Al Khobar",
+    "Al Qunfudhah"
+   ],
+   "Z1": 11639935.954875067,
+   "used": [
+    "Tabuk",
+    "Al Khobar",
+    "Al Qunfudhah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Tabuk",
+    "Al Khobar",
+    "Bisha"
+   ],
+   "Z1": 11624114.319645055,
+   "used": [
+    "Tabuk",
+    "Al Khobar",
+    "Bisha"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Tabuk",
+    "Najran",
+    "Al Jubayl"
+   ],
+   "Z1": 11572273.392420039,
+   "used": [
+    "Tabuk",
+    "Najran",
+    "Al Jubayl"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Tabuk",
+    "Najran",
+    "Hafar Al-Batin"
+   ],
+   "Z1": 11549036.726760015,
+   "used": [
+    "Tabuk",
+    "Najran",
+    "Hafar Al-Batin"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Tabuk",
+    "Najran",
+    "Al Mubarraz"
+   ],
+   "Z1": 11575994.503305063,
+   "used": [
+    "Tabuk",
+    "Najran",
+    "Al Mubarraz"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Tabuk",
+    "Najran",
+    "Al Kharj"
+   ],
+   "Z1": 11602760.59429504,
+   "used": [
+    "Tabuk",
+    "Najran",
+    "Al Kharj"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Tabuk",
+    "Al Jubayl",
+    "Al Qunfudhah"
+   ],
+   "Z1": 11633233.154250063,
+   "used": [
+    "Tabuk",
+    "Al Jubayl",
+    "Al Qunfudhah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Tabuk",
+    "Al Jubayl",
+    "Bisha"
+   ],
+   "Z1": 11617411.51902005,
+   "used": [
+    "Tabuk",
+    "Al Jubayl",
+    "Bisha"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Tabuk",
+    "Hafar Al-Batin",
+    "Al Qunfudhah"
+   ],
+   "Z1": 11606724.806250054,
+   "used": [
+    "Tabuk",
+    "Hafar Al-Batin",
+    "Al Qunfudhah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Tabuk",
+    "Hafar Al-Batin",
+    "Bisha"
+   ],
+   "Z1": 11591020.858800001,
+   "used": [
+    "Tabuk",
+    "Hafar Al-Batin",
+    "Bisha"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Tabuk",
+    "Al Mubarraz",
+    "Al Qunfudhah"
+   ],
+   "Z1": 11636781.022875078,
+   "used": [
+    "Tabuk",
+    "Al Mubarraz",
+    "Al Qunfudhah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Tabuk",
+    "Al Mubarraz",
+    "Bisha"
+   ],
+   "Z1": 11620959.38764506,
+   "used": [
+    "Tabuk",
+    "Al Mubarraz",
+    "Bisha"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Tabuk",
+    "Al Kharj",
+    "Al Qunfudhah"
+   ],
+   "Z1": 11662490.482275032,
+   "used": [
+    "Tabuk",
+    "Al Kharj",
+    "Al Qunfudhah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Tabuk",
+    "Al Kharj",
+    "Bisha"
+   ],
+   "Z1": 11647251.620850027,
+   "used": [
+    "Tabuk",
+    "Al Kharj",
+    "Bisha"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Abha",
+    "Buraidah",
+    "Ha'il"
+   ],
+   "Z1": 11590241.401155055,
+   "used": [
+    "Abha",
+    "Buraidah",
+    "Ha'il"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Abha",
+    "Buraidah",
+    "Sakakah"
+   ],
+   "Z1": 11580653.107200049,
+   "used": [
+    "Abha",
+    "Buraidah",
+    "Sakakah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Abha",
+    "Buraidah",
+    "Yanbu"
+   ],
+   "Z1": 11629754.911470003,
+   "used": [
+    "Abha",
+    "Buraidah",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Abha",
+    "Buraidah",
+    "Qurayyat"
+   ],
+   "Z1": 11582366.010960087,
+   "used": [
+    "Abha",
+    "Buraidah",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Abha",
+    "Al Khobar",
+    "Ha'il"
+   ],
+   "Z1": 11608446.279495135,
+   "used": [
+    "Abha",
+    "Al Khobar",
+    "Ha'il"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Abha",
+    "Al Khobar",
+    "Yanbu"
+   ],
+   "Z1": 11647707.265515089,
+   "used": [
+    "Abha",
+    "Al Khobar",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Abha",
+    "Al Khobar",
+    "Qurayyat"
+   ],
+   "Z1": 11598794.63719514,
+   "used": [
+    "Abha",
+    "Al Khobar",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Abha",
+    "Ha'il",
+    "Al Jubayl"
+   ],
+   "Z1": 11601372.192645103,
+   "used": [
+    "Abha",
+    "Ha'il",
+    "Al Jubayl"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Abha",
+    "Ha'il",
+    "Hafar Al-Batin"
+   ],
+   "Z1": 11575565.955120116,
+   "used": [
+    "Abha",
+    "Ha'il",
+    "Hafar Al-Batin"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Abha",
+    "Ha'il",
+    "Al Mubarraz"
+   ],
+   "Z1": 11604678.257550122,
+   "used": [
+    "Abha",
+    "Ha'il",
+    "Al Mubarraz"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Abha",
+    "Ha'il",
+    "Al Kharj"
+   ],
+   "Z1": 11631105.54907509,
+   "used": [
+    "Abha",
+    "Ha'il",
+    "Al Kharj"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Abha",
+    "Al Jubayl",
+    "Yanbu"
+   ],
+   "Z1": 11641004.464890093,
+   "used": [
+    "Abha",
+    "Al Jubayl",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Abha",
+    "Al Jubayl",
+    "Qurayyat"
+   ],
+   "Z1": 11592091.836570136,
+   "used": [
+    "Abha",
+    "Al Jubayl",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Abha",
+    "Hafar Al-Batin",
+    "Sakakah"
+   ],
+   "Z1": 11564489.897850096,
+   "used": [
+    "Abha",
+    "Hafar Al-Batin",
+    "Sakakah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Abha",
+    "Hafar Al-Batin",
+    "Yanbu"
+   ],
+   "Z1": 11614568.11842002,
+   "used": [
+    "Abha",
+    "Hafar Al-Batin",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Abha",
+    "Hafar Al-Batin",
+    "Qurayyat"
+   ],
+   "Z1": 11566572.504510097,
+   "used": [
+    "Abha",
+    "Hafar Al-Batin",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Abha",
+    "Sakakah",
+    "Al Kharj"
+   ],
+   "Z1": 11617422.963600121,
+   "used": [
+    "Abha",
+    "Sakakah",
+    "Al Kharj"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Abha",
+    "Al Mubarraz",
+    "Yanbu"
+   ],
+   "Z1": 11644552.333515093,
+   "used": [
+    "Abha",
+    "Al Mubarraz",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Abha",
+    "Al Mubarraz",
+    "Qurayyat"
+   ],
+   "Z1": 11595792.662760124,
+   "used": [
+    "Abha",
+    "Al Mubarraz",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Abha",
+    "Yanbu",
+    "Al Kharj"
+   ],
+   "Z1": 11670036.102840103,
+   "used": [
+    "Abha",
+    "Yanbu",
+    "Al Kharj"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Abha",
+    "Al Kharj",
+    "Qurayyat"
+   ],
+   "Z1": 11622803.26656013,
+   "used": [
+    "Abha",
+    "Al Kharj",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Buraidah",
+    "Jizan",
+    "Ha'il"
+   ],
+   "Z1": 11582449.662135065,
+   "used": [
+    "Buraidah",
+    "Jizan",
+    "Ha'il"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Buraidah",
+    "Jizan",
+    "Sakakah"
+   ],
+   "Z1": 11566896.850380093,
+   "used": [
+    "Buraidah",
+    "Jizan",
+    "Sakakah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Buraidah",
+    "Jizan",
+    "Yanbu"
+   ],
+   "Z1": 11626353.789869986,
+   "used": [
+    "Buraidah",
+    "Jizan",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Buraidah",
+    "Jizan",
+    "Qurayyat"
+   ],
+   "Z1": 11573556.139560081,
+   "used": [
+    "Buraidah",
+    "Jizan",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Buraidah",
+    "Khamis Mushait",
+    "Ha'il"
+   ],
+   "Z1": 11587643.487075038,
+   "used": [
+    "Buraidah",
+    "Khamis Mushait",
+    "Ha'il"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Buraidah",
+    "Khamis Mushait",
+    "Sakakah"
+   ],
+   "Z1": 11578164.45510006,
+   "used": [
+    "Buraidah",
+    "Khamis Mushait",
+    "Sakakah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Buraidah",
+    "Khamis Mushait",
+    "Yanbu"
+   ],
+   "Z1": 11629242.505649984,
+   "used": [
+    "Buraidah",
+    "Khamis Mushait",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Buraidah",
+    "Khamis Mushait",
+    "Qurayyat"
+   ],
+   "Z1": 11579768.096880056,
+   "used": [
+    "Buraidah",
+    "Khamis Mushait",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Buraidah",
+    "Najran",
+    "Ha'il"
+   ],
+   "Z1": 11582007.244860068,
+   "used": [
+    "Buraidah",
+    "Najran",
+    "Ha'il"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Buraidah",
+    "Najran",
+    "Sakakah"
+   ],
+   "Z1": 11554074.653475083,
+   "used": [
+    "Buraidah",
+    "Najran",
+    "Sakakah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Buraidah",
+    "Najran",
+    "Yanbu"
+   ],
+   "Z1": 11625004.439850032,
+   "used": [
+    "Buraidah",
+    "Najran",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Buraidah",
+    "Najran",
+    "Qurayyat"
+   ],
+   "Z1": 11557289.143605068,
+   "used": [
+    "Buraidah",
+    "Najran",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Buraidah",
+    "Ha'il",
+    "Al Qunfudhah"
+   ],
+   "Z1": 11621142.117300056,
+   "used": [
+    "Buraidah",
+    "Ha'il",
+    "Al Qunfudhah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Buraidah",
+    "Ha'il",
+    "Bisha"
+   ],
+   "Z1": 11608494.021975048,
+   "used": [
+    "Buraidah",
+    "Ha'il",
+    "Bisha"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Buraidah",
+    "Sakakah",
+    "Al Qunfudhah"
+   ],
+   "Z1": 11620175.466000043,
+   "used": [
+    "Buraidah",
+    "Sakakah",
+    "Al Qunfudhah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Buraidah",
+    "Sakakah",
+    "Bisha"
+   ],
+   "Z1": 11604639.295199975,
+   "used": [
+    "Buraidah",
+    "Sakakah",
+    "Bisha"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Buraidah",
+    "Yanbu",
+    "Al Qunfudhah"
+   ],
+   "Z1": 11629994.029815018,
+   "used": [
+    "Buraidah",
+    "Yanbu",
+    "Al Qunfudhah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Buraidah",
+    "Yanbu",
+    "Bisha"
+   ],
+   "Z1": 11629757.149049975,
+   "used": [
+    "Buraidah",
+    "Yanbu",
+    "Bisha"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Buraidah",
+    "Qurayyat",
+    "Al Qunfudhah"
+   ],
+   "Z1": 11620127.666325055,
+   "used": [
+    "Buraidah",
+    "Qurayyat",
+    "Al Qunfudhah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Buraidah",
+    "Qurayyat",
+    "Bisha"
+   ],
+   "Z1": 11604888.80490005,
+   "used": [
+    "Buraidah",
+    "Qurayyat",
+    "Bisha"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jizan",
+    "Al Khobar",
+    "Ha'il"
+   ],
+   "Z1": 11603691.421995137,
+   "used": [
+    "Jizan",
+    "Al Khobar",
+    "Ha'il"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jizan",
+    "Al Khobar",
+    "Yanbu"
+   ],
+   "Z1": 11644306.14391508,
+   "used": [
+    "Jizan",
+    "Al Khobar",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jizan",
+    "Al Khobar",
+    "Qurayyat"
+   ],
+   "Z1": 11589984.765795149,
+   "used": [
+    "Jizan",
+    "Al Khobar",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jizan",
+    "Ha'il",
+    "Al Jubayl"
+   ],
+   "Z1": 11596802.50605008,
+   "used": [
+    "Jizan",
+    "Ha'il",
+    "Al Jubayl"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jizan",
+    "Ha'il",
+    "Hafar Al-Batin"
+   ],
+   "Z1": 11570811.097620092,
+   "used": [
+    "Jizan",
+    "Ha'il",
+    "Hafar Al-Batin"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jizan",
+    "Ha'il",
+    "Al Mubarraz"
+   ],
+   "Z1": 11599923.400050096,
+   "used": [
+    "Jizan",
+    "Ha'il",
+    "Al Mubarraz"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jizan",
+    "Ha'il",
+    "Al Kharj"
+   ],
+   "Z1": 11623479.321225107,
+   "used": [
+    "Jizan",
+    "Ha'il",
+    "Al Kharj"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jizan",
+    "Al Jubayl",
+    "Yanbu"
+   ],
+   "Z1": 11637603.343290076,
+   "used": [
+    "Jizan",
+    "Al Jubayl",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jizan",
+    "Al Jubayl",
+    "Qurayyat"
+   ],
+   "Z1": 11583281.965170138,
+   "used": [
+    "Jizan",
+    "Al Jubayl",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jizan",
+    "Hafar Al-Batin",
+    "Sakakah"
+   ],
+   "Z1": 11552357.421030149,
+   "used": [
+    "Jizan",
+    "Hafar Al-Batin",
+    "Sakakah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jizan",
+    "Hafar Al-Batin",
+    "Yanbu"
+   ],
+   "Z1": 11611166.996820003,
+   "used": [
+    "Jizan",
+    "Hafar Al-Batin",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jizan",
+    "Hafar Al-Batin",
+    "Qurayyat"
+   ],
+   "Z1": 11557762.633110106,
+   "used": [
+    "Jizan",
+    "Hafar Al-Batin",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jizan",
+    "Sakakah",
+    "Al Kharj"
+   ],
+   "Z1": 11608446.8137801,
+   "used": [
+    "Jizan",
+    "Sakakah",
+    "Al Kharj"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jizan",
+    "Al Mubarraz",
+    "Yanbu"
+   ],
+   "Z1": 11641151.211915076,
+   "used": [
+    "Jizan",
+    "Al Mubarraz",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jizan",
+    "Al Mubarraz",
+    "Qurayyat"
+   ],
+   "Z1": 11586982.791360125,
+   "used": [
+    "Jizan",
+    "Al Mubarraz",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jizan",
+    "Yanbu",
+    "Al Kharj"
+   ],
+   "Z1": 11666634.981240094,
+   "used": [
+    "Jizan",
+    "Yanbu",
+    "Al Kharj"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Jizan",
+    "Al Kharj",
+    "Qurayyat"
+   ],
+   "Z1": 11613993.395160139,
+   "used": [
+    "Jizan",
+    "Al Kharj",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Khamis Mushait",
+    "Al Khobar",
+    "Ha'il"
+   ],
+   "Z1": 11608423.903695121,
+   "used": [
+    "Khamis Mushait",
+    "Al Khobar",
+    "Ha'il"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Khamis Mushait",
+    "Al Khobar",
+    "Yanbu"
+   ],
+   "Z1": 11647194.859695084,
+   "used": [
+    "Khamis Mushait",
+    "Al Khobar",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Khamis Mushait",
+    "Al Khobar",
+    "Qurayyat"
+   ],
+   "Z1": 11596196.723115124,
+   "used": [
+    "Khamis Mushait",
+    "Al Khobar",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Khamis Mushait",
+    "Ha'il",
+    "Al Jubayl"
+   ],
+   "Z1": 11601534.987750087,
+   "used": [
+    "Khamis Mushait",
+    "Ha'il",
+    "Al Jubayl"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Khamis Mushait",
+    "Ha'il",
+    "Hafar Al-Batin"
+   ],
+   "Z1": 11575543.57932011,
+   "used": [
+    "Khamis Mushait",
+    "Ha'il",
+    "Hafar Al-Batin"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Khamis Mushait",
+    "Ha'il",
+    "Al Mubarraz"
+   ],
+   "Z1": 11604655.8817501,
+   "used": [
+    "Khamis Mushait",
+    "Ha'il",
+    "Al Mubarraz"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Khamis Mushait",
+    "Ha'il",
+    "Al Kharj"
+   ],
+   "Z1": 11628604.1243551,
+   "used": [
+    "Khamis Mushait",
+    "Ha'il",
+    "Al Kharj"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Khamis Mushait",
+    "Al Jubayl",
+    "Yanbu"
+   ],
+   "Z1": 11640492.05907008,
+   "used": [
+    "Khamis Mushait",
+    "Al Jubayl",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Khamis Mushait",
+    "Al Jubayl",
+    "Qurayyat"
+   ],
+   "Z1": 11589493.92249012,
+   "used": [
+    "Khamis Mushait",
+    "Al Jubayl",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Khamis Mushait",
+    "Hafar Al-Batin",
+    "Sakakah"
+   ],
+   "Z1": 11562001.245750107,
+   "used": [
+    "Khamis Mushait",
+    "Hafar Al-Batin",
+    "Sakakah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Khamis Mushait",
+    "Hafar Al-Batin",
+    "Yanbu"
+   ],
+   "Z1": 11614055.712600008,
+   "used": [
+    "Khamis Mushait",
+    "Hafar Al-Batin",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Khamis Mushait",
+    "Hafar Al-Batin",
+    "Qurayyat"
+   ],
+   "Z1": 11564575.00819508,
+   "used": [
+    "Khamis Mushait",
+    "Hafar Al-Batin",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Khamis Mushait",
+    "Sakakah",
+    "Al Kharj"
+   ],
+   "Z1": 11614903.677300133,
+   "used": [
+    "Khamis Mushait",
+    "Sakakah",
+    "Al Kharj"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Khamis Mushait",
+    "Al Mubarraz",
+    "Yanbu"
+   ],
+   "Z1": 11644039.927695088,
+   "used": [
+    "Khamis Mushait",
+    "Al Mubarraz",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Khamis Mushait",
+    "Al Mubarraz",
+    "Qurayyat"
+   ],
+   "Z1": 11593194.748680107,
+   "used": [
+    "Khamis Mushait",
+    "Al Mubarraz",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Khamis Mushait",
+    "Yanbu",
+    "Al Kharj"
+   ],
+   "Z1": 11669523.697020099,
+   "used": [
+    "Khamis Mushait",
+    "Yanbu",
+    "Al Kharj"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Khamis Mushait",
+    "Al Kharj",
+    "Qurayyat"
+   ],
+   "Z1": 11620205.352480114,
+   "used": [
+    "Khamis Mushait",
+    "Al Kharj",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Al Khobar",
+    "Najran",
+    "Ha'il"
+   ],
+   "Z1": 11605805.935095116,
+   "used": [
+    "Al Khobar",
+    "Najran",
+    "Ha'il"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Al Khobar",
+    "Najran",
+    "Yanbu"
+   ],
+   "Z1": 11642988.591525078,
+   "used": [
+    "Al Khobar",
+    "Najran",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Al Khobar",
+    "Najran",
+    "Qurayyat"
+   ],
+   "Z1": 11573831.80272013,
+   "used": [
+    "Al Khobar",
+    "Najran",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Al Khobar",
+    "Ha'il",
+    "Al Qunfudhah"
+   ],
+   "Z1": 11638561.098675087,
+   "used": [
+    "Al Khobar",
+    "Ha'il",
+    "Al Qunfudhah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Al Khobar",
+    "Ha'il",
+    "Bisha"
+   ],
+   "Z1": 11625913.003350079,
+   "used": [
+    "Al Khobar",
+    "Ha'il",
+    "Bisha"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Al Khobar",
+    "Sakakah",
+    "Al Qunfudhah"
+   ],
+   "Z1": 11638111.294875152,
+   "used": [
+    "Al Khobar",
+    "Sakakah",
+    "Al Qunfudhah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Al Khobar",
+    "Sakakah",
+    "Bisha"
+   ],
+   "Z1": 11622182.891925149,
+   "used": [
+    "Al Khobar",
+    "Sakakah",
+    "Bisha"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Al Khobar",
+    "Yanbu",
+    "Al Qunfudhah"
+   ],
+   "Z1": 11647946.383860163,
+   "used": [
+    "Al Khobar",
+    "Yanbu",
+    "Al Qunfudhah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Al Khobar",
+    "Yanbu",
+    "Bisha"
+   ],
+   "Z1": 11647709.503095083,
+   "used": [
+    "Al Khobar",
+    "Yanbu",
+    "Bisha"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Al Khobar",
+    "Qurayyat",
+    "Al Qunfudhah"
+   ],
+   "Z1": 11638010.39452514,
+   "used": [
+    "Al Khobar",
+    "Qurayyat",
+    "Al Qunfudhah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Al Khobar",
+    "Qurayyat",
+    "Bisha"
+   ],
+   "Z1": 11622188.759295128,
+   "used": [
+    "Al Khobar",
+    "Qurayyat",
+    "Bisha"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Najran",
+    "Ha'il",
+    "Al Jubayl"
+   ],
+   "Z1": 11598917.01915007,
+   "used": [
+    "Najran",
+    "Ha'il",
+    "Al Jubayl"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Najran",
+    "Ha'il",
+    "Hafar Al-Batin"
+   ],
+   "Z1": 11572925.61072009,
+   "used": [
+    "Najran",
+    "Ha'il",
+    "Hafar Al-Batin"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Najran",
+    "Ha'il",
+    "Al Mubarraz"
+   ],
+   "Z1": 11602037.913150087,
+   "used": [
+    "Najran",
+    "Ha'il",
+    "Al Mubarraz"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Najran",
+    "Ha'il",
+    "Al Kharj"
+   ],
+   "Z1": 11621423.631090067,
+   "used": [
+    "Najran",
+    "Ha'il",
+    "Al Kharj"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Najran",
+    "Al Jubayl",
+    "Yanbu"
+   ],
+   "Z1": 11636285.790900066,
+   "used": [
+    "Najran",
+    "Al Jubayl",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Najran",
+    "Al Jubayl",
+    "Qurayyat"
+   ],
+   "Z1": 11567129.002095126,
+   "used": [
+    "Najran",
+    "Al Jubayl",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Najran",
+    "Hafar Al-Batin",
+    "Sakakah"
+   ],
+   "Z1": 11542332.038700096,
+   "used": [
+    "Najran",
+    "Hafar Al-Batin",
+    "Sakakah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Najran",
+    "Hafar Al-Batin",
+    "Yanbu"
+   ],
+   "Z1": 11609777.44290004,
+   "used": [
+    "Najran",
+    "Hafar Al-Batin",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Najran",
+    "Hafar Al-Batin",
+    "Qurayyat"
+   ],
+   "Z1": 11545492.852020085,
+   "used": [
+    "Najran",
+    "Hafar Al-Batin",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Najran",
+    "Sakakah",
+    "Al Kharj"
+   ],
+   "Z1": 11592179.817825086,
+   "used": [
+    "Najran",
+    "Sakakah",
+    "Al Kharj"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Najran",
+    "Al Mubarraz",
+    "Yanbu"
+   ],
+   "Z1": 11639833.659525082,
+   "used": [
+    "Najran",
+    "Al Mubarraz",
+    "Yanbu"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Najran",
+    "Al Mubarraz",
+    "Qurayyat"
+   ],
+   "Z1": 11570715.795405112,
+   "used": [
+    "Najran",
+    "Al Mubarraz",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Najran",
+    "Yanbu",
+    "Al Kharj"
+   ],
+   "Z1": 11665317.428850085,
+   "used": [
+    "Najran",
+    "Yanbu",
+    "Al Kharj"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Najran",
+    "Al Kharj",
+    "Qurayyat"
+   ],
+   "Z1": 11597726.399205118,
+   "used": [
+    "Najran",
+    "Al Kharj",
+    "Qurayyat"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Ha'il",
+    "Al Jubayl",
+    "Al Qunfudhah"
+   ],
+   "Z1": 11631858.298050113,
+   "used": [
+    "Ha'il",
+    "Al Jubayl",
+    "Al Qunfudhah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Ha'il",
+    "Al Jubayl",
+    "Bisha"
+   ],
+   "Z1": 11619210.202725098,
+   "used": [
+    "Ha'il",
+    "Al Jubayl",
+    "Bisha"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Ha'il",
+    "Hafar Al-Batin",
+    "Al Qunfudhah"
+   ],
+   "Z1": 11605376.448075049,
+   "used": [
+    "Ha'il",
+    "Hafar Al-Batin",
+    "Al Qunfudhah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Ha'il",
+    "Hafar Al-Batin",
+    "Bisha"
+   ],
+   "Z1": 11592773.308020033,
+   "used": [
+    "Ha'il",
+    "Hafar Al-Batin",
+    "Bisha"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Ha'il",
+    "Al Mubarraz",
+    "Al Qunfudhah"
+   ],
+   "Z1": 11635406.166675113,
+   "used": [
+    "Ha'il",
+    "Al Mubarraz",
+    "Al Qunfudhah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Ha'il",
+    "Al Mubarraz",
+    "Bisha"
+   ],
+   "Z1": 11622758.071350101,
+   "used": [
+    "Ha'il",
+    "Al Mubarraz",
+    "Bisha"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Ha'il",
+    "Al Kharj",
+    "Al Qunfudhah"
+   ],
+   "Z1": 11661509.016075067,
+   "used": [
+    "Ha'il",
+    "Al Kharj",
+    "Al Qunfudhah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Ha'il",
+    "Al Kharj",
+    "Bisha"
+   ],
+   "Z1": 11648905.876020081,
+   "used": [
+    "Ha'il",
+    "Al Kharj",
+    "Bisha"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Al Jubayl",
+    "Sakakah",
+    "Al Qunfudhah"
+   ],
+   "Z1": 11631406.318050101,
+   "used": [
+    "Al Jubayl",
+    "Sakakah",
+    "Al Qunfudhah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Al Jubayl",
+    "Sakakah",
+    "Bisha"
+   ],
+   "Z1": 11615477.91510012,
+   "used": [
+    "Al Jubayl",
+    "Sakakah",
+    "Bisha"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Al Jubayl",
+    "Yanbu",
+    "Al Qunfudhah"
+   ],
+   "Z1": 11641243.583235107,
+   "used": [
+    "Al Jubayl",
+    "Yanbu",
+    "Al Qunfudhah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Al Jubayl",
+    "Yanbu",
+    "Bisha"
+   ],
+   "Z1": 11641006.702470072,
+   "used": [
+    "Al Jubayl",
+    "Yanbu",
+    "Bisha"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Al Jubayl",
+    "Qurayyat",
+    "Al Qunfudhah"
+   ],
+   "Z1": 11631307.593900137,
+   "used": [
+    "Al Jubayl",
+    "Qurayyat",
+    "Al Qunfudhah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Al Jubayl",
+    "Qurayyat",
+    "Bisha"
+   ],
+   "Z1": 11615485.958670124,
+   "used": [
+    "Al Jubayl",
+    "Qurayyat",
+    "Bisha"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Hafar Al-Batin",
+    "Sakakah",
+    "Al Qunfudhah"
+   ],
+   "Z1": 11605293.5153251,
+   "used": [
+    "Hafar Al-Batin",
+    "Sakakah",
+    "Al Qunfudhah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Hafar Al-Batin",
+    "Sakakah",
+    "Bisha"
+   ],
+   "Z1": 11589254.57955005,
+   "used": [
+    "Hafar Al-Batin",
+    "Sakakah",
+    "Bisha"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Hafar Al-Batin",
+    "Yanbu",
+    "Al Qunfudhah"
+   ],
+   "Z1": 11614807.23676502,
+   "used": [
+    "Hafar Al-Batin",
+    "Yanbu",
+    "Al Qunfudhah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Hafar Al-Batin",
+    "Yanbu",
+    "Bisha"
+   ],
+   "Z1": 11614570.356000006,
+   "used": [
+    "Hafar Al-Batin",
+    "Yanbu",
+    "Bisha"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Hafar Al-Batin",
+    "Qurayyat",
+    "Al Qunfudhah"
+   ],
+   "Z1": 11604799.245900117,
+   "used": [
+    "Hafar Al-Batin",
+    "Qurayyat",
+    "Al Qunfudhah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Hafar Al-Batin",
+    "Qurayyat",
+    "Bisha"
+   ],
+   "Z1": 11589095.298450068,
+   "used": [
+    "Hafar Al-Batin",
+    "Qurayyat",
+    "Bisha"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Sakakah",
+    "Al Mubarraz",
+    "Al Qunfudhah"
+   ],
+   "Z1": 11634937.614075117,
+   "used": [
+    "Sakakah",
+    "Al Mubarraz",
+    "Al Qunfudhah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Sakakah",
+    "Al Mubarraz",
+    "Bisha"
+   ],
+   "Z1": 11619009.211125113,
+   "used": [
+    "Sakakah",
+    "Al Mubarraz",
+    "Bisha"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Sakakah",
+    "Al Kharj",
+    "Al Qunfudhah"
+   ],
+   "Z1": 11660441.917800106,
+   "used": [
+    "Sakakah",
+    "Al Kharj",
+    "Al Qunfudhah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Sakakah",
+    "Al Kharj",
+    "Bisha"
+   ],
+   "Z1": 11645052.780000076,
+   "used": [
+    "Sakakah",
+    "Al Kharj",
+    "Bisha"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Al Mubarraz",
+    "Yanbu",
+    "Al Qunfudhah"
+   ],
+   "Z1": 11644791.451860085,
+   "used": [
+    "Al Mubarraz",
+    "Yanbu",
+    "Al Qunfudhah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Al Mubarraz",
+    "Yanbu",
+    "Bisha"
+   ],
+   "Z1": 11644554.571095094,
+   "used": [
+    "Al Mubarraz",
+    "Yanbu",
+    "Bisha"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Al Mubarraz",
+    "Qurayyat",
+    "Al Qunfudhah"
+   ],
+   "Z1": 11634855.462525152,
+   "used": [
+    "Al Mubarraz",
+    "Qurayyat",
+    "Al Qunfudhah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Al Mubarraz",
+    "Qurayyat",
+    "Bisha"
+   ],
+   "Z1": 11619033.827295132,
+   "used": [
+    "Al Mubarraz",
+    "Qurayyat",
+    "Bisha"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Yanbu",
+    "Al Kharj",
+    "Al Qunfudhah"
+   ],
+   "Z1": 11670275.221185096,
+   "used": [
+    "Yanbu",
+    "Al Kharj",
+    "Al Qunfudhah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Yanbu",
+    "Al Kharj",
+    "Bisha"
+   ],
+   "Z1": 11670038.340420075,
+   "used": [
+    "Yanbu",
+    "Al Kharj",
+    "Bisha"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Al Kharj",
+    "Qurayyat",
+    "Al Qunfudhah"
+   ],
+   "Z1": 11660564.921925105,
+   "used": [
+    "Al Kharj",
+    "Qurayyat",
+    "Al Qunfudhah"
+   ],
+   "stage1": false
+  },
+  {
+   "sites": [
+    "Al Kharj",
+    "Qurayyat",
+    "Bisha"
+   ],
+   "Z1": 11645326.0605001,
+   "used": [
+    "Al Kharj",
+    "Qurayyat",
+    "Bisha"
+   ],
+   "stage1": false
+  }
+ ],
+ "solve_log": [
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.23117804527282715
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.25470709800720215
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.05657768249511719
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.11549973487854004
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.24050211906433105
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.27217698097229004
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.2102501392364502
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.15851879119873047
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.5472784042358398
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.5642750263214111
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.07165098190307617
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.3268768787384033
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.07567191123962402
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.4949986934661865
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.08216214179992676
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.08710527420043945
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.8844711780548096
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.44211268424987793
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.0886373519897461
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.05039644241333008
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.15451693534851074
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.03499341011047363
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.0695047378540039
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.19811105728149414
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.15898394584655762
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.16165709495544434
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.15192651748657227
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.9396061897277832
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.15560483932495117
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.052414655685424805
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.04837298393249512
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.04982304573059082
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.0507357120513916
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.04468083381652832
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.05205655097961426
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.1320199966430664
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.04703259468078613
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.04954695701599121
+  },
+  {
+   "status": "Infeasible",
+   "sol_status": -1,
+   "seconds": 0.02651190757751465
+  },
+  {
+   "status": "Infeasible",
+   "sol_status": -1,
+   "seconds": 0.022782325744628906
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.06436824798583984
+  },
+  {
+   "status": "Infeasible",
+   "sol_status": -1,
+   "seconds": 0.025377988815307617
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.07217907905578613
+  },
+  {
+   "status": "Infeasible",
+   "sol_status": -1,
+   "seconds": 0.025975704193115234
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.07534480094909668
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.051311492919921875
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.14112186431884766
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.06321501731872559
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.055747032165527344
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.07586932182312012
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.17780590057373047
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.05103564262390137
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.1342160701751709
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.05382204055786133
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.14996886253356934
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.04629969596862793
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.12520503997802734
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.054483652114868164
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.2761709690093994
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.049121856689453125
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.055103302001953125
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.07372856140136719
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.2141721248626709
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.07029318809509277
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.9035108089447021
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.07717442512512207
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.14835190773010254
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.048056840896606445
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.05318617820739746
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.11289119720458984
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.23621702194213867
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.15631890296936035
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.1701521873474121
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.10219979286193848
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.12697267532348633
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.09988689422607422
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.18238306045532227
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.10485219955444336
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.469282865524292
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.2586781978607178
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.04275870323181152
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.22852134704589844
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.11078000068664551
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.0828242301940918
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.20769047737121582
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.03829479217529297
+  },
+  {
+   "status": "Infeasible",
+   "sol_status": -1,
+   "seconds": 0.024698972702026367
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.03427839279174805
+  },
+  {
+   "status": "Infeasible",
+   "sol_status": -1,
+   "seconds": 0.0231168270111084
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.06639814376831055
+  },
+  {
+   "status": "Infeasible",
+   "sol_status": -1,
+   "seconds": 0.024617910385131836
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.07835149765014648
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.09911084175109863
+  },
+  {
+   "status": "Infeasible",
+   "sol_status": -1,
+   "seconds": 0.025243043899536133
+  },
+  {
+   "status": "Infeasible",
+   "sol_status": -1,
+   "seconds": 0.022543668746948242
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.22014760971069336
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.13392925262451172
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.06100177764892578
+  },
+  {
+   "status": "Infeasible",
+   "sol_status": -1,
+   "seconds": 0.02510833740234375
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 1.024928331375122
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.11707162857055664
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.06311464309692383
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.07726669311523438
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.08454585075378418
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.3322029113769531
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.27504634857177734
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.3507664203643799
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.09031367301940918
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.6660399436950684
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.05475354194641113
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.13386201858520508
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.056900978088378906
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.06045413017272949
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.04289841651916504
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.04195594787597656
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.17374944686889648
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.10488653182983398
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.14322400093078613
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.06158804893493652
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.06315135955810547
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.5638072490692139
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.15978097915649414
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.5545508861541748
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.062077999114990234
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.4449927806854248
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.061093807220458984
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.519432544708252
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 1.1909172534942627
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.43039798736572266
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.11687064170837402
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.05513334274291992
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.2325725555419922
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.05317258834838867
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.5967063903808594
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.3679654598236084
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.22847318649291992
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.04645705223083496
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.07274985313415527
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.47923898696899414
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.0635230541229248
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.17953181266784668
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.12679266929626465
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.2544372081756592
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.3207590579986572
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.30312323570251465
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.25670289993286133
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.17450761795043945
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.18420147895812988
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.0637519359588623
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.17119669914245605
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.0640113353729248
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.18993687629699707
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.30471134185791016
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.4681684970855713
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.2925374507904053
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.13941597938537598
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.33278322219848633
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.12064099311828613
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.2144453525543213
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.2871875762939453
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.12344908714294434
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.21341729164123535
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.11543965339660645
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.14676785469055176
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.21195244789123535
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.8067288398742676
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.4948384761810303
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.16236233711242676
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.37105393409729004
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.06119799613952637
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.4550938606262207
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.9707324504852295
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.6954548358917236
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.6150641441345215
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.16234254837036133
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.07079648971557617
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.45246028900146484
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.31124043464660645
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.917992115020752
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.2776656150817871
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.25400495529174805
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.7803647518157959
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.7706682682037354
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.3294994831085205
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.8165140151977539
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.8426690101623535
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.1121978759765625
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.5977213382720947
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.22565889358520508
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.3242020606994629
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.5255258083343506
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.33292102813720703
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.1120305061340332
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.6310832500457764
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.8199565410614014
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.8064775466918945
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.582486629486084
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.45809054374694824
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.6283760070800781
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.6087157726287842
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.47443532943725586
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.16681194305419922
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.29946398735046387
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.14946436882019043
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.5491881370544434
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.08489680290222168
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.044512271881103516
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.04589581489562988
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.04183197021484375
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.047084808349609375
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.1940627098083496
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.06061697006225586
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.8112788200378418
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.052442073822021484
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.04820394515991211
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.6210312843322754
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.06492972373962402
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.04000377655029297
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.6882166862487793
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.07611894607543945
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.05862879753112793
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.06549477577209473
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.04887986183166504
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.10824418067932129
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.0775902271270752
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.06966710090637207
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.1677565574645996
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.25658655166625977
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.4472031593322754
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.19262003898620605
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.21315860748291016
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.10527968406677246
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.165083646774292
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.07970929145812988
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.05940604209899902
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.810739278793335
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.4441683292388916
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.07135534286499023
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.4622688293457031
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.07613682746887207
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.3421790599822998
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.6525757312774658
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.1929030418395996
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.0662529468536377
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.06300568580627441
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.21303534507751465
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.23004627227783203
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.9766449928283691
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.4592587947845459
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.25177812576293945
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.17356181144714355
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.1473217010498047
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.3266561031341553
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.6808598041534424
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.6379799842834473
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.5457682609558105
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.2165217399597168
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.06224942207336426
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.5845346450805664
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.12578940391540527
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.4758279323577881
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.259676456451416
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.07819080352783203
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.04380297660827637
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.03995347023010254
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.10026288032531738
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.05548810958862305
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.04807591438293457
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.03702116012573242
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.05263638496398926
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.040139198303222656
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.05741119384765625
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.12106990814208984
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.045523881912231445
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.04421257972717285
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.047666072845458984
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.04878520965576172
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.04344511032104492
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.041060447692871094
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.03936576843261719
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.05562734603881836
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.04466581344604492
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.05085039138793945
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.04374575614929199
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.06030845642089844
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.06460332870483398
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.04441690444946289
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.047518014907836914
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.05192255973815918
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.04575634002685547
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.2817673683166504
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.17037367820739746
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.5852231979370117
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.07494115829467773
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.1708993911743164
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.06852960586547852
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.06960010528564453
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.06434178352355957
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.04124903678894043
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.0619051456451416
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.05243968963623047
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.05031919479370117
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.6906285285949707
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.3575730323791504
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.04606223106384277
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.484222412109375
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.8586349487304688
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.7857754230499268
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.04087352752685547
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.16733646392822266
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.04628872871398926
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.07967114448547363
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.446230411529541
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.06994962692260742
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.06177186965942383
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.054845333099365234
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.046376943588256836
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.05394744873046875
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.05157470703125
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 1.179419994354248
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.05113363265991211
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.05965733528137207
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.046141624450683594
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.048664093017578125
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.05705690383911133
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.15801453590393066
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.10062527656555176
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.18286347389221191
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.060480356216430664
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.0436396598815918
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.05831599235534668
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.3922717571258545
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.05336785316467285
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.08234620094299316
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.08139348030090332
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.5519578456878662
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.4232289791107178
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.08297324180603027
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.07525491714477539
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.69549560546875
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.06009078025817871
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.03814077377319336
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.4409666061401367
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.39879798889160156
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.8026340007781982
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.35529303550720215
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.06385684013366699
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.03892183303833008
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.0653541088104248
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.33520984649658203
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.048288822174072266
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.05218243598937988
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.06020927429199219
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.05445742607116699
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.13781428337097168
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.05840611457824707
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.8030858039855957
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.06673526763916016
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.049756526947021484
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.5958795547485352
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.574634313583374
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 1.165682315826416
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.0631113052368164
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.24155735969543457
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.04371500015258789
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.07234859466552734
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.4262685775756836
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.06368684768676758
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.0542449951171875
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.09203433990478516
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.051171302795410156
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.056688785552978516
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.049320220947265625
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.0732278823852539
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.0470738410949707
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.09052324295043945
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.1125955581665039
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.05829882621765137
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.20191526412963867
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.27876710891723633
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.4368736743927002
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.4527750015258789
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.25220656394958496
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.13222122192382812
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.04364967346191406
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.05192852020263672
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.2016289234161377
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.8944377899169922
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.05531764030456543
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.11541175842285156
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.05114293098449707
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.11990904808044434
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.05017876625061035
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.05059623718261719
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.12083983421325684
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.06330394744873047
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.03703761100769043
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.0637214183807373
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.3379225730895996
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.27614641189575195
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.5636439323425293
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.06555342674255371
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.05967068672180176
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.23520350456237793
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.04746651649475098
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.04916715621948242
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.1469876766204834
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.38862013816833496
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.3336164951324463
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.21081066131591797
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.2604525089263916
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.07226157188415527
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.6767148971557617
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.7788887023925781
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.6544544696807861
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.9518606662750244
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.3778376579284668
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.21859169006347656
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.14543771743774414
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.07533383369445801
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.08246684074401855
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.17706036567687988
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.6612956523895264
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 1.0143537521362305
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.148789644241333
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.0735018253326416
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.4194176197052002
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.31530046463012695
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.15841341018676758
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.09008479118347168
+  }
+ ]
+}

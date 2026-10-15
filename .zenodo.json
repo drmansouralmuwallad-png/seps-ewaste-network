@@ -1,0 +1,15 @@
+{
+  "title": "Public e-waste recovery network for Saudi Arabia: code and data",
+  "upload_type": "software",
+  "description": "Code and data that regenerate every number, table and figure of the article 'Planning a public e-waste recovery network for profit, jobs and regional equity: a two-stage compromise model applied to Saudi Arabia' (submitted to Socio-Economic Planning Sciences). Code under MIT; data under CC BY 4.0.",
+  "creators": [
+    {
+      "name": "Almuwallad, Mansour",
+      "affiliation": "Department of Management Science, Yanbu Industrial College, Royal Commission for Jubail and Yanbu",
+      "orcid": "0009-0002-9547-0621"
+    }
+  ],
+  "license": "MIT",
+  "keywords": ["e-waste", "facility location", "regional equity", "fuzzy compromise programming", "employment", "circular economy", "Saudi Arabia"],
+  "version": "1.0.0"
+}

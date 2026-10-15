@@ -1,0 +1,95 @@
+{
+ "maxprofit": {
+  "Z1": 11688095.281800047,
+  "Z2": 89.99999999999993,
+  "Z3": 9789.07119136091,
+  "cc": {
+   "throughput": 10885.0,
+   "open_slots": 66,
+   "all_slots": 66,
+   "load_open": 54.974747474747474,
+   "load_installed": 54.974747474747474
+  },
+  "sc": {
+   "throughput": 10885.0,
+   "open_slots": 18,
+   "all_slots": 18,
+   "load_open": 63.654970760233915,
+   "load_installed": 63.654970760233915
+  },
+  "rc": {
+   "throughput": 3265.5,
+   "open_slots": 12,
+   "all_slots": 18,
+   "load_open": 90.70833333333333,
+   "load_installed": 60.47222222222222
+  },
+  "rf": {
+   "throughput": 5442.5,
+   "open_slots": 12,
+   "all_slots": 18,
+   "load_open": 90.70833333333333,
+   "load_installed": 60.47222222222222
+  },
+  "all": {
+   "load_open": 65.54408602150538,
+   "load_installed": 59.41130604288499
+  }
+ },
+ "compromise": {
+  "Z1": 8088290.442299698,
+  "Z2": 95.00000000000024,
+  "Z3": 9939.07119136092,
+  "cc": {
+   "throughput": 10885.0,
+   "open_slots": 66,
+   "all_slots": 66,
+   "load_open": 54.974747474747474,
+   "load_installed": 54.974747474747474
+  },
+  "sc": {
+   "throughput": 10885.0,
+   "open_slots": 18,
+   "all_slots": 18,
+   "load_open": 63.654970760233915,
+   "load_installed": 63.654970760233915
+  },
+  "rc": {
+   "throughput": 3265.5000000000005,
+   "open_slots": 12,
+   "all_slots": 18,
+   "load_open": 90.70833333333334,
+   "load_installed": 60.472222222222236
+  },
+  "rf": {
+   "throughput": 5442.5,
+   "open_slots": 18,
+   "all_slots": 18,
+   "load_open": 60.47222222222222,
+   "load_installed": 60.47222222222222
+  },
+  "all": {
+   "load_open": 61.571717171717175,
+   "load_installed": 59.41130604288499
+  },
+  "lam": 0.45000000000316226
+ },
+ "min_util": 0.1,
+ "solve_log": [
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.07548308372497559
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 31.16067147254944
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.8094818592071533
+  }
+ ]
+}

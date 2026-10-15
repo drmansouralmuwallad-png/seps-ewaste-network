@@ -1,0 +1,82 @@
+[
+ {
+  "phase": 1,
+  "status": "Optimal",
+  "seconds": 0.01602911949157715,
+  "n_vars": 100,
+  "n_int": 24,
+  "n_cons": 245
+ },
+ {
+  "phase": 1,
+  "status": "Optimal",
+  "seconds": 0.013306617736816406,
+  "n_vars": 100,
+  "n_int": 24,
+  "n_cons": 246
+ },
+ {
+  "phase": 1,
+  "status": "Optimal",
+  "seconds": 0.006707906723022461,
+  "n_vars": 100,
+  "n_int": 24,
+  "n_cons": 101
+ },
+ {
+  "phase": 1,
+  "status": "Optimal",
+  "seconds": 0.007535219192504883,
+  "n_vars": 100,
+  "n_int": 24,
+  "n_cons": 102
+ },
+ {
+  "phase": 2,
+  "status": "Optimal",
+  "seconds": 0.014215707778930664,
+  "n_vars": 156,
+  "n_int": 24,
+  "n_cons": 289
+ },
+ {
+  "phase": 2,
+  "status": "Optimal",
+  "seconds": 0.017132997512817383,
+  "n_vars": 156,
+  "n_int": 24,
+  "n_cons": 290
+ },
+ {
+  "phase": 2,
+  "status": "Optimal",
+  "seconds": 0.015539884567260742,
+  "n_vars": 156,
+  "n_int": 24,
+  "n_cons": 288
+ },
+ {
+  "phase": 2,
+  "status": "Optimal",
+  "seconds": 0.014758825302124023,
+  "n_vars": 156,
+  "n_int": 24,
+  "n_cons": 289
+ },
+ {
+  "phase": 2,
+  "status": "Optimal",
+  "seconds": 0.018421411514282227,
+  "n_vars": 156,
+  "n_int": 24,
+  "n_cons": 289
+ },
+ {
+  "phase": 2,
+  "status": "Optimal",
+  "seconds": 0.014164924621582031,
+  "n_vars": 156,
+  "n_int": 24,
+  "n_cons": 290
+ }
+]

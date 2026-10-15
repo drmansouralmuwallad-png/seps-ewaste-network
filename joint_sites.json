@@ -1,0 +1,63 @@
+{
+ "cc": [
+  "Riyadh",
+  "Jeddah",
+  "Mecca",
+  "Medina",
+  "Abha",
+  "Buraidah",
+  "Hafar Al-Batin",
+  "Sakakah",
+  "Al Mubarraz",
+  "Al Kharj",
+  "Qurayyat"
+ ],
+ "sc": [
+  "Jeddah",
+  "Jizan",
+  "Hafar Al-Batin"
+ ],
+ "compromise": {
+  "Z1": 8025563.011800051,
+  "Z2": 94.9999999999999,
+  "Z3": 9939.071191360908,
+  "lam": 0.44999999999999724
+ },
+ "maxprofit": 14439644.439600065,
+ "sc_used_maxprofit": [
+  "Jeddah",
+  "Hafar Al-Batin"
+ ],
+ "solve_log": [
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.7427349090576172
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.08281803131103516
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.12547993659973145
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.03185749053955078
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.036543846130371094
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.1347362995147705
+  }
+ ]
+}

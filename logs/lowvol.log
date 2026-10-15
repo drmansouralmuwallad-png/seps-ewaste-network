@@ -1,0 +1,3 @@
+max jobs 9380 vs baseline L3 9789; own-bounds compromise 4.40 M SAR (-45.58%), 9230 jobs, 95.00%
+{'vol+10': {'radii': 'Infeasible', 'no_R1': 'Optimal', 'no_R1_Z1': 11186786.15402092}, 'vol-10': {'radii': 'Optimal', 'radii_Z1': 8001612.125684977, 'no_R1': 'Optimal', 'no_R1_Z1': 10817121.358304966}, 'cap-25': {'radii': 'Infeasible', 'no_R1': 'Optimal', 'no_R1_Z1': 14488591.795049962}}
+{'Riyadh': 0.0, 'Jeddah': 0.0, 'Mecca': 15.0, 'Medina': 134.0, 'Dammam': 277.0, 'Tabuk': 45.0, 'Abha': 136.0, 'Buraidah': 85.0, 'Hafar Al-Batin': 34.0, 'Sakakah': 32.0, 'Al Kharj': 0.0}

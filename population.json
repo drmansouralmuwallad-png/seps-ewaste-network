@@ -1,0 +1,32 @@
+{
+ "_note": "Saudi Census 2022 (GASTAT) populations of the governorate each model node serves, as compiled by Saudipedia and Wikipedia governorate tables. census_label = the page states the figure is from the 2022 census. Region totals (GASTAT Census 2022 via GLMM) are used as a consistency check.",
+ "nodes": {
+  "Riyadh": {"governorate": "Riyadh", "pop": 7009120, "census_label": true, "url": "https://saudipedia.com/en/riyadh-city"},
+  "Jeddah": {"governorate": "Jeddah", "pop": 3751722, "census_label": false, "url": "https://saudipedia.com/en/jeddah-city"},
+  "Mecca": {"governorate": "Makkah", "pop": 2427924, "census_label": true, "url": "https://saudipedia.com/en/makkah-al-mukarramah-city"},
+  "Medina": {"governorate": "Madinah", "pop": 1477047, "census_label": true, "url": "https://en.wikipedia.org/wiki/Medina_Province,_Saudi_Arabia"},
+  "Dammam": {"governorate": "Dammam", "pop": 1532326, "census_label": false, "url": "https://saudipedia.com/en/dammam-city"},
+  "Ta'if": {"governorate": "Ta'if", "pop": 913374, "census_label": true, "url": "https://saudipedia.com/en/taif-governorate"},
+  "Tabuk": {"governorate": "Tabuk", "pop": 623665, "census_label": true, "url": "https://saudipedia.com/en/tabuk-city"},
+  "Abha": {"governorate": "Abha", "pop": 422243, "census_label": true, "url": "https://saudipedia.com/en/abha-city"},
+  "Buraidah": {"governorate": "Buraydah", "pop": 677647, "census_label": true, "url": "https://saudipedia.com/en/buraydah-city"},
+  "Jizan": {"governorate": "Jazan", "pop": 200911, "census_label": true, "url": "https://saudipedia.com/en/jazan-city"},
+  "Khamis Mushait": {"governorate": "Khamis Mushait", "pop": 601305, "census_label": true, "url": "https://saudipedia.com/en/khamis-mushait-governorate"},
+  "Al Khobar": {"governorate": "Al Khobar", "pop": 658550, "census_label": false, "url": "https://en.wikipedia.org/wiki/Eastern_Province,_Saudi_Arabia"},
+  "Najran": {"governorate": "Najran", "pop": 421902, "census_label": true, "url": "https://saudipedia.com/en/najran-city"},
+  "Ha'il": {"governorate": "Ha'il", "pop": 498575, "census_label": true, "url": "https://en.wikipedia.org/wiki/Hail_Province,_Saudi_Arabia"},
+  "Al Jubayl": {"governorate": "Jubail", "pop": 505162, "census_label": true, "url": "https://saudipedia.com/en/jubail-governorate"},
+  "Hafar Al-Batin": {"governorate": "Hafar Al-Batin", "pop": 467007, "census_label": false, "url": "https://en.wikipedia.org/wiki/Eastern_Province,_Saudi_Arabia"},
+  "Sakakah": {"governorate": "Sakaka", "pop": 236669, "census_label": true, "url": "https://saudipedia.com/en/sakaka-city"},
+  "Arar": {"governorate": "Arar", "pop": 202719, "census_label": true, "url": "https://saudipedia.com/en/arar-governorate"},
+  "Al Mubarraz": {"governorate": "Al-Ahsa", "pop": 1104267, "census_label": true, "url": "https://saudipedia.com/en/al-ahsa-governorate"},
+  "Yanbu": {"governorate": "Yanbu", "pop": 359631, "census_label": true, "url": "https://saudipedia.com/en/yanbu-governorate"},
+  "Al Kharj": {"governorate": "Al-Kharj", "pop": 373177, "census_label": false, "url": "https://en.wikipedia.org/wiki/Riyadh_Province"},
+  "Qurayyat": {"governorate": "Al-Qurayyat", "pop": 195016, "census_label": true, "url": "https://saudipedia.com/en/al-qurayyat-governorate"},
+  "Al Qunfudhah": {"governorate": "Al-Qunfudhah", "pop": 205188, "census_label": true, "url": "https://en.wikipedia.org/wiki/Al_Qunfudhah"},
+  "Bisha": {"governorate": "Bishah", "pop": 202096, "census_label": true, "url": "https://saudipedia.com/en/bishah-governorate"}
+ },
+ "region_totals_census_2022": {"source": "GASTAT Census 2022, via GLMM https://gulfmigration.grc.net/saudi-arabia-population-by-nationality-saudi-non-saudi-and-administrative-region-governorate-of-residence-2022/",
+  "Riyadh": 8591748, "Makkah": 8021463, "Eastern": 5125254, "Madinah": 2137983, "Asir": 2024285, "Jazan": 1404997, "Qassim": 1336179, "Tabuk": 886036, "Ha'il": 746406, "Al-Jouf": 595822, "Najran": 592300, "Northern Borders": 373577, "Al Bahah": 339174, "Kingdom": 32175224},
+ "national_ewaste": {"source": "Iattoni et al. (2021), Regional E-waste Monitor for the Arab States 2021, UNU/UNITAR and ITU, ISBN 978-92-61-35311-7, p. 12", "year": 2019, "generated_kt": 595, "documented_formal_collection": "none reported for Saudi Arabia"}
+}

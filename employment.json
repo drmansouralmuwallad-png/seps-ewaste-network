@@ -1,0 +1,381 @@
+{
+ "baseline": {
+  "Z": {
+   "Z1": 8088290.442299698,
+   "Z2": 95.00000000000024,
+   "Z3": 9939.07119136092
+  },
+  "periods": [
+   {
+    "period": 1,
+    "tonnes": 1823.0,
+    "wc": 1.2,
+    "tonnage_workers": 1519.1666666666667,
+    "open": 19,
+    "floor_workers": 475.0,
+    "total": 1994.1666666666667
+   },
+   {
+    "period": 2,
+    "tonnes": 1801.0,
+    "wc": 1.411764705882353,
+    "tonnage_workers": 1275.7083333333333,
+    "open": 19,
+    "floor_workers": 475.0,
+    "total": 1750.7083333333333
+   },
+   {
+    "period": 3,
+    "tonnes": 1827.0,
+    "wc": 1.5525643227733184,
+    "tonnage_workers": 1176.7628388732146,
+    "open": 19,
+    "floor_workers": 475.0,
+    "total": 1651.7628388732146
+   },
+   {
+    "period": 4,
+    "tonnes": 1810.0,
+    "wc": 1.6608996539792389,
+    "tonnage_workers": 1089.7708333333333,
+    "open": 19,
+    "floor_workers": 475.0,
+    "total": 1564.7708333333333
+   },
+   {
+    "period": 5,
+    "tonnes": 1823.0,
+    "wc": 1.7501103185953113,
+    "tonnage_workers": 1041.6486210213263,
+    "open": 19,
+    "floor_workers": 475.0,
+    "total": 1516.6486210213263
+   },
+   {
+    "period": 6,
+    "tonnes": 1801.0,
+    "wc": 1.8265462620862567,
+    "tonnage_workers": 986.0138981330382,
+    "open": 19,
+    "floor_workers": 475.0,
+    "total": 1461.0138981330383
+   }
+  ]
+ },
+ "e_min_sweep": [
+  {
+   "e_min": 10.0,
+   "Z": {
+    "Z1": 8088290.442309823,
+    "Z2": 94.99999999999993,
+    "Z3": 8229.071191360908
+   },
+   "periods": [
+    {
+     "period": 1,
+     "tonnes": 1823.0,
+     "wc": 1.2,
+     "tonnage_workers": 1519.1666666666667,
+     "open": 19,
+     "floor_workers": 190.0,
+     "total": 1709.1666666666667
+    },
+    {
+     "period": 2,
+     "tonnes": 1801.0,
+     "wc": 1.411764705882353,
+     "tonnage_workers": 1275.7083333333333,
+     "open": 19,
+     "floor_workers": 190.0,
+     "total": 1465.7083333333333
+    },
+    {
+     "period": 3,
+     "tonnes": 1827.0,
+     "wc": 1.5525643227733184,
+     "tonnage_workers": 1176.7628388732146,
+     "open": 19,
+     "floor_workers": 190.0,
+     "total": 1366.7628388732146
+    },
+    {
+     "period": 4,
+     "tonnes": 1810.0,
+     "wc": 1.6608996539792389,
+     "tonnage_workers": 1089.7708333333333,
+     "open": 19,
+     "floor_workers": 190.0,
+     "total": 1279.7708333333333
+    },
+    {
+     "period": 5,
+     "tonnes": 1823.0,
+     "wc": 1.7501103185953113,
+     "tonnage_workers": 1041.6486210213263,
+     "open": 19,
+     "floor_workers": 190.0,
+     "total": 1231.6486210213263
+    },
+    {
+     "period": 6,
+     "tonnes": 1801.0,
+     "wc": 1.8265462620862567,
+     "tonnage_workers": 986.0138981330382,
+     "open": 19,
+     "floor_workers": 190.0,
+     "total": 1176.0138981330383
+    }
+   ],
+   "payoff_jobs": [
+    8169.07119136091,
+    8289.071191360912,
+    8289.071191360912
+   ]
+  },
+  {
+   "e_min": 25.0,
+   "Z": {
+    "Z1": 8088290.442299698,
+    "Z2": 95.00000000000024,
+    "Z3": 9939.07119136092
+   },
+   "periods": [
+    {
+     "period": 1,
+     "tonnes": 1823.0,
+     "wc": 1.2,
+     "tonnage_workers": 1519.1666666666667,
+     "open": 19,
+     "floor_workers": 475.0,
+     "total": 1994.1666666666667
+    },
+    {
+     "period": 2,
+     "tonnes": 1801.0,
+     "wc": 1.411764705882353,
+     "tonnage_workers": 1275.7083333333333,
+     "open": 19,
+     "floor_workers": 475.0,
+     "total": 1750.7083333333333
+    },
+    {
+     "period": 3,
+     "tonnes": 1827.0,
+     "wc": 1.5525643227733184,
+     "tonnage_workers": 1176.7628388732146,
+     "open": 19,
+     "floor_workers": 475.0,
+     "total": 1651.7628388732146
+    },
+    {
+     "period": 4,
+     "tonnes": 1810.0,
+     "wc": 1.6608996539792389,
+     "tonnage_workers": 1089.7708333333333,
+     "open": 19,
+     "floor_workers": 475.0,
+     "total": 1564.7708333333333
+    },
+    {
+     "period": 5,
+     "tonnes": 1823.0,
+     "wc": 1.7501103185953113,
+     "tonnage_workers": 1041.6486210213263,
+     "open": 19,
+     "floor_workers": 475.0,
+     "total": 1516.6486210213263
+    },
+    {
+     "period": 6,
+     "tonnes": 1801.0,
+     "wc": 1.8265462620862567,
+     "tonnage_workers": 986.0138981330382,
+     "open": 19,
+     "floor_workers": 475.0,
+     "total": 1461.0138981330383
+    }
+   ],
+   "payoff_jobs": [
+    9789.07119136091,
+    10089.071191360912,
+    10089.071191360912
+   ]
+  },
+  {
+   "e_min": 40.0,
+   "Z": {
+    "Z1": 8088290.4423026,
+    "Z2": 95.00000000000165,
+    "Z3": 11649.071191360992
+   },
+   "periods": [
+    {
+     "period": 1,
+     "tonnes": 1823.0,
+     "wc": 1.2,
+     "tonnage_workers": 1519.1666666666667,
+     "open": 19,
+     "floor_workers": 760.0,
+     "total": 2279.166666666667
+    },
+    {
+     "period": 2,
+     "tonnes": 1801.0,
+     "wc": 1.411764705882353,
+     "tonnage_workers": 1275.7083333333333,
+     "open": 19,
+     "floor_workers": 760.0,
+     "total": 2035.7083333333333
+    },
+    {
+     "period": 3,
+     "tonnes": 1827.0,
+     "wc": 1.5525643227733184,
+     "tonnage_workers": 1176.7628388732146,
+     "open": 19,
+     "floor_workers": 760.0,
+     "total": 1936.7628388732146
+    },
+    {
+     "period": 4,
+     "tonnes": 1810.0,
+     "wc": 1.6608996539792389,
+     "tonnage_workers": 1089.7708333333333,
+     "open": 19,
+     "floor_workers": 760.0,
+     "total": 1849.7708333333333
+    },
+    {
+     "period": 5,
+     "tonnes": 1823.0,
+     "wc": 1.7501103185953113,
+     "tonnage_workers": 1041.6486210213263,
+     "open": 19,
+     "floor_workers": 760.0,
+     "total": 1801.6486210213263
+    },
+    {
+     "period": 6,
+     "tonnes": 1801.0,
+     "wc": 1.8265462620862567,
+     "tonnage_workers": 986.0138981330382,
+     "open": 19,
+     "floor_workers": 760.0,
+     "total": 1746.0138981330383
+    }
+   ],
+   "payoff_jobs": [
+    11409.07119136091,
+    11889.071191360912,
+    11889.071191360912
+   ]
+  }
+ ],
+ "solve_log": [
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 23.192570447921753
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.6805553436279297
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.6249291896820068
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.05752992630004883
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.03557705879211426
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.03950929641723633
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 10.055440664291382
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.7212128639221191
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.767265796661377
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.058264732360839844
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.03411865234375
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.03396344184875488
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 23.288018226623535
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.6112189292907715
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.6162011623382568
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.05503225326538086
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.03395891189575195
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.03670692443847656
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 3.112996816635132
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.7367725372314453
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.7388286590576172
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+[19:01:30] payoff matrix ...
+[19:01:30]    max Z1:     11.34 M SAR   90.00%      9789 jobs
+[19:01:30]    max Z2:      2.48 M SAR  100.00%     10089 jobs
+[19:01:30]    max Z3:      2.60 M SAR  100.00%     10089 jobs
+[19:01:30] fuzzy max-min compromise ...
+[19:01:31]    6.95 M SAR  95.83%  9964 jobs  lam*=0.4543 (check 0.4543)  NOS=2.5588
+[19:01:31] weighted sum, 10 configurations ...
+[19:01:31]    w=(0.50,0.25,0.25)    11.34  90.00     9789 NOS=2.8703
+[19:01:31]    w=(0.33,0.33,0.34)    11.34  90.00     9789 NOS=2.8703
+[19:01:31]    w=(0.25,0.25,0.50)    11.34  90.00     9789 NOS=2.8703
+[19:01:32]    w=(0.60,0.20,0.20)    11.34  90.00     9789 NOS=2.8703
+[19:01:32]    w=(0.20,0.50,0.30)    11.34  90.00     9789 NOS=2.8703
+[19:01:32]    w=(0.40,0.40,0.20)    11.34  90.00     9789 NOS=2.8703
+[19:01:32]    w=(0.70,0.15,0.15)    11.34  90.00     9789 NOS=2.8703
+[19:01:32]    w=(0.20,0.20,0.60)    11.34  90.00     9789 NOS=2.8703
+[19:01:32]    w=(0.15,0.70,0.15)    11.34  90.00     9789 NOS=2.8703
+[19:01:32]    w=(0.45,0.30,0.25)    11.34  90.00     9789 NOS=2.8703
+[19:01:32] epsilon-constraint, 10 configurations ...
+[19:01:32]    eps=( 90.00,    9789)    11.34  90.00     9789 NOS=2.8703
+[19:01:33]    eps=( 90.83,    9814)    10.74  90.83     9814 NOS=2.8282
+[19:01:33]    eps=( 91.67,    9839)    10.14  91.67     9839 NOS=2.7862
+[19:01:33]    eps=( 92.50,    9864)     9.55  92.50     9864 NOS=2.7441
+[19:01:33]    eps=( 93.33,    9889)     8.95  93.33     9889 NOS=2.7020
+[19:01:33]    eps=( 94.17,    9914)     8.35  94.17     9914 NOS=2.6600
+[19:01:33]    eps=( 95.00,    9939)     7.75  95.00     9939 NOS=2.6179
+[19:01:34]    eps=( 95.83,    9964)     6.95  95.83     9964 NOS=2.5588
+[19:01:34]    eps=( 96.67,    9989)     6.16  96.67     9989 NOS=2.4997
+[19:01:34]    eps=( 97.50,   10014)     5.37  97.50    10014 NOS=2.4406
+[19:01:34] learning on/off ...
+[19:01:34]    no learning: 6.95 M SAR  11946 jobs
+[19:01:34] sensitivity ...
+[19:01:34]    E-waste collection volume  -10%  Infeasible (sol_status -1)
+[19:01:34]    E-waste collection volume  +10%  Infeasible (sol_status -1)
+[19:01:35]    Market demand              -10%  profit  +0.00%  jobs  +0.00%  util +0.00pp
+[19:01:35]    Market demand              +10%  profit  +0.00%  jobs  +0.00%  util +0.00pp
+[19:01:46]    Fuel price                 -10%  profit  +0.60%  jobs  -0.00%  util +0.00pp
+[19:01:46]    Fuel price                 +10%  profit  -0.60%  jobs  +0.00%  util +0.00pp
+[19:45:52]    Selling prices             -15%  profit -42.41%  jobs  -1.00%  util -3.33pp
+[19:45:52]    Selling prices             +15%  profit +45.48%  jobs  +0.75%  util +2.50pp
+[19:45:52]    Collection capacity        -25%  Infeasible (sol_status -1)
+[19:45:52] disruption ...
+[19:45:55]    Collection: Riyadh               uncovered 0  strict no  compromise -24.09%  max-profit  -0.78%  haul 0 km
+[19:45:56]    Collection: Jeddah               uncovered 0  strict no  compromise -24.28%  max-profit  -0.92%  haul 0 km
+[19:46:00]    Collection: Mecca                uncovered 1  strict no  compromise -24.03%  max-profit  -0.76%  haul 310 km
+[19:46:02]    Collection: Medina               uncovered 2  strict no  compromise -23.13%  max-profit  -0.23%  haul 420 km
+[19:46:04]    Collection: Dammam               uncovered 4  strict no  compromise -23.57%  max-profit  -0.46%  haul 435 km
+[19:46:07]    Collection: Tabuk                uncovered 1  strict no  compromise -22.82%  max-profit  +0.00%  haul 482 km
+[19:46:10]    Collection: Abha                 uncovered 5  strict no  compromise -22.98%  max-profit  -0.13%  haul 891 km
+[19:46:15]    Collection: Buraidah             uncovered 2  strict no  compromise -22.97%  max-profit  -0.08%  haul 434 km
+[19:46:17]    Collection: Hafar Al-Batin       uncovered 1  strict no  compromise -22.87%  max-profit  -0.03%  haul 420 km
+[19:46:19]    Collection: Sakakah              uncovered 2  strict no  compromise -23.09%  max-profit  -0.17%  haul 695 km
+[19:46:24]    Collection: Al Kharj             uncovered 0  strict no  compromise -23.53%  max-profit  -0.44%  haul 0 km
+[19:46:25]    Segregation: Riyadh              uncovered 2  strict no  compromise -15.00%  max-profit +18.94%  haul 1160 km
+[19:46:25]    Segregation: Jeddah              uncovered 0  strict no  compromise -14.40%  max-profit +19.40%  haul 0 km
+[19:46:26]    Segregation: Sakakah             uncovered 2  strict no  compromise  -5.59%  max-profit +24.82%  haul 1152 km
+[19:46:26]    Recycling: Turbarjal             uncovered 0  strict ok  compromise +11.41%  max-profit  +0.00%  haul 0 km
+[19:46:27]    Recycling: Ad Dilam              uncovered 0  strict ok  compromise  +9.76%  max-profit  -1.01%  haul 0 km
+[19:46:27]    Recycling: Umm Lajj              uncovered 0  strict ok  compromise  +9.75%  max-profit  -1.04%  haul 0 km
+[19:46:28]    Refurbishing: Riyadh             uncovered 0  strict ok  compromise  -6.50%  max-profit  -0.75%  haul 0 km
+[19:46:28]    Refurbishing: Jeddah             uncovered 0  strict ok  compromise  -8.66%  max-profit  -2.07%  haul 0 km
+[19:46:29]    Refurbishing: Dammam             uncovered 0  strict ok  compromise  -5.28%  max-profit  +0.00%  haul 0 km
+[19:46:29] core complete in 2699s

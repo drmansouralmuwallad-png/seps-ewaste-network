@@ -1,0 +1,67 @@
+{'status': 'Optimal', 'sol_status': 1, 'seconds': 520.0980582237244}
+{'status': 'Optimal', 'sol_status': 2, 'seconds': 3600.1266162395477}
+{'status': 'Optimal', 'sol_status': 2, 'seconds': 3600.8273599147797}
+{
+ "n_cc": 11,
+ "n_sc": 3,
+ "maxprofit": {
+  "Z1": 14439644.439600058,
+  "Z2": 84.99999999999997,
+  "Z3": 9639.071191360912,
+  "cc": [
+   "Riyadh",
+   "Jeddah",
+   "Mecca",
+   "Medina",
+   "Abha",
+   "Buraidah",
+   "Hafar Al-Batin",
+   "Sakakah",
+   "Al Mubarraz",
+   "Al Kharj",
+   "Qurayyat"
+  ],
+  "sc": [
+   "Jeddah",
+   "Jizan",
+   "Hafar Al-Batin"
+  ],
+  "status": "Optimal",
+  "sol_status": 1,
+  "seconds": 520.0980582237244
+ },
+ "compromise": {
+  "Z1": 8090686.600065641,
+  "Z2": 95.00000000458057,
+  "Z3": 9939.07119149833,
+  "lam": 0.45,
+  "cc": [
+   "Riyadh",
+   "Jeddah",
+   "Mecca",
+   "Dammam",
+   "Tabuk",
+   "Abha",
+   "Buraidah",
+   "Hafar Al-Batin",
+   "Sakakah",
+   "Yanbu",
+   "Al Kharj"
+  ],
+  "sc": [
+   "Riyadh",
+   "Jeddah",
+   "Yanbu"
+  ],
+  "phase1": {
+   "status": "Optimal",
+   "sol_status": 2,
+   "seconds": 3600.1266162395477
+  },
+  "phase2": {
+   "status": "Optimal",
+   "sol_status": 2,
+   "seconds": 3600.8273599147797
+  }
+ }
+}

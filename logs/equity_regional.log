@@ -1,0 +1,13 @@
+as_written  SC=['Riyadh', 'Jeddah', 'Sakakah']  profit 8.088  Z3 9939  low-income 54.8%  outside corridor 28.0%
+none        SC=['Riyadh', 'Jeddah', 'Sakakah']  profit 8.088  Z3 9939  low-income 54.8%  outside corridor 28.0%
+narrow_all  SC=['Jeddah', 'Medina', 'Buraidah']  profit 8.046  Z3 9939  low-income 56.3%  outside corridor 29.5%
+wide_two    SC=['Riyadh', 'Yanbu', 'Bisha']  profit 8.073  Z3 9939  low-income 54.8%  outside corridor 29.5%
+wide_all    SC=['Buraidah', 'Yanbu', 'Bisha']  profit 8.029  Z3 9939  low-income 56.3%  outside corridor 31.0%
+[collection] floor 55%: profit 8.085  lam 0.4500  SC ['Riyadh', 'Jeddah', 'Sakakah']
+[collection] floor 56%: profit 8.071  lam 0.4500  SC ['Riyadh', 'Jeddah', 'Sakakah']
+[collection] floor 57%: profit 11.067  lam 0.0750  SC ['Riyadh', 'Jeddah', 'Sakakah']
+[collection] floor 58%: Infeasible (sol_status -1)
+[segregation] floor 52%: profit 8.087  lam 0.4500  SC ['Riyadh', 'Jeddah', 'Sakakah']
+[segregation] floor 57%: profit 8.075  lam 0.4500  SC ['Riyadh', 'Jeddah', 'Sakakah']
+[segregation] floor 62%: profit 8.058  lam 0.4500  SC ['Riyadh', 'Jeddah', 'Sakakah']
+[segregation] floor 67%: Infeasible (sol_status -1)

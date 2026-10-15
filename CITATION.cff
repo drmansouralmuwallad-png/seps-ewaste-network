@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below, and cite the article once it is published."
+type: software
+title: "Public e-waste recovery network for Saudi Arabia: code and data"
+version: 1.0.0
+date-released: 2026-10-15
+authors:
+  - family-names: Almuwallad
+    given-names: Mansour
+    affiliation: "Department of Management Science, Yanbu Industrial College, Royal Commission for Jubail and Yanbu"
+    orcid: "https://orcid.org/0009-0002-9547-0621"
+repository-code: "https://github.com/drmansouralmuwallad-png/seps-ewaste-network"
+license:
+  - MIT
+  - CC-BY-4.0
+keywords:
+  - e-waste
+  - facility location
+  - regional equity
+  - fuzzy compromise programming
+  - employment
+  - circular economy
+  - Saudi Arabia
+abstract: >-
+  Code and data that regenerate every number, table and figure of a two-stage
+  planning model for a public e-waste recovery network in Saudi Arabia: set-covering
+  siting with a regional equity rule, and a multi-period flow model with workforce
+  learning that balances operating profit, operational utilisation and employment by a
+  two-phase fuzzy max-min compromise.

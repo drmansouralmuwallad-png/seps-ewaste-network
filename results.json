@@ -1,0 +1,1402 @@
+{
+ "payoff": {
+  "Z1": {
+   "Z1": 11688095.281800047,
+   "Z2": 89.99999999999993,
+   "Z3": 9789.07119136091
+  },
+  "Z2": {
+   "Z1": 3228308.8605300635,
+   "Z2": 99.99999999999987,
+   "Z3": 10089.071191360912
+  },
+  "Z3": {
+   "Z1": 3250300.321290061,
+   "Z2": 99.99999999999987,
+   "Z3": 10089.071191360912
+  }
+ },
+ "ideal": {
+  "Z1": 11688095.281800047,
+  "Z2": 99.99999999999987,
+  "Z3": 10089.071191360912
+ },
+ "bounds": {
+  "Z1": [
+   3228308.8605300635,
+   11688095.281800047
+  ],
+  "Z2": [
+   89.99999999999993,
+   99.99999999999987
+  ],
+  "Z3": [
+   9789.07119136091,
+   10089.071191360912
+  ]
+ },
+ "maxmin": {
+  "lam": 0.45000000000316226,
+  "lam_phase1_raw": 0.45000000000318985,
+  "T": {
+   "Z1": 0.5744804111780465,
+   "Z2": 0.5000000000000341,
+   "Z3": 0.5000000000000273
+  },
+  "lam_check": 0.4500000000000246,
+  "phase1": {
+   "Z1": 7688489.784682455,
+   "Z2": 95.00000000003513,
+   "Z3": 9939.071191361965
+  },
+  "Z1": 8088290.442299698,
+  "Z2": 95.00000000000024,
+  "Z3": 9939.07119136092,
+  "NOS": 2.627143421958327
+ },
+ "ws": [
+  {
+   "w": {
+    "Z1": 0.5,
+    "Z2": 0.25,
+    "Z3": 0.25
+   },
+   "Z1": 11688095.28180004,
+   "Z2": 89.99999999999993,
+   "Z3": 9789.071191360912,
+   "NOS": 2.870264854483643
+  },
+  {
+   "w": {
+    "Z1": 0.33,
+    "Z2": 0.33,
+    "Z3": 0.34
+   },
+   "Z1": 11688095.28180004,
+   "Z2": 89.99999999999993,
+   "Z3": 9789.071191360912,
+   "NOS": 2.870264854483643
+  },
+  {
+   "w": {
+    "Z1": 0.25,
+    "Z2": 0.25,
+    "Z3": 0.5
+   },
+   "Z1": 11688095.28180004,
+   "Z2": 89.99999999999993,
+   "Z3": 9789.071191360912,
+   "NOS": 2.870264854483643
+  },
+  {
+   "w": {
+    "Z1": 0.6,
+    "Z2": 0.2,
+    "Z3": 0.2
+   },
+   "Z1": 11688095.28180004,
+   "Z2": 89.99999999999993,
+   "Z3": 9789.07119136091,
+   "NOS": 2.8702648544836427
+  },
+  {
+   "w": {
+    "Z1": 0.2,
+    "Z2": 0.5,
+    "Z3": 0.3
+   },
+   "Z1": 11688095.28180004,
+   "Z2": 89.99999999999993,
+   "Z3": 9789.071191360912,
+   "NOS": 2.870264854483643
+  },
+  {
+   "w": {
+    "Z1": 0.4,
+    "Z2": 0.4,
+    "Z3": 0.2
+   },
+   "Z1": 11688095.28180004,
+   "Z2": 89.99999999999993,
+   "Z3": 9789.071191360912,
+   "NOS": 2.870264854483643
+  },
+  {
+   "w": {
+    "Z1": 0.7,
+    "Z2": 0.15,
+    "Z3": 0.15
+   },
+   "Z1": 11688095.281800047,
+   "Z2": 89.99999999999993,
+   "Z3": 9789.07119136091,
+   "NOS": 2.8702648544836435
+  },
+  {
+   "w": {
+    "Z1": 0.2,
+    "Z2": 0.2,
+    "Z3": 0.6
+   },
+   "Z1": 11688095.28180004,
+   "Z2": 89.99999999999993,
+   "Z3": 9789.071191360912,
+   "NOS": 2.870264854483643
+  },
+  {
+   "w": {
+    "Z1": 0.15,
+    "Z2": 0.7,
+    "Z3": 0.15
+   },
+   "Z1": 11688095.28180004,
+   "Z2": 89.99999999999993,
+   "Z3": 9789.071191360912,
+   "NOS": 2.870264854483643
+  },
+  {
+   "w": {
+    "Z1": 0.45,
+    "Z2": 0.3,
+    "Z3": 0.25
+   },
+   "Z1": 11688095.28180004,
+   "Z2": 89.99999999999993,
+   "Z3": 9789.071191360912,
+   "NOS": 2.870264854483643
+  }
+ ],
+ "ec": [
+  {
+   "eps": [
+    89.99999999999993,
+    9789.07119136091
+   ],
+   "Z1": 11688095.281800047,
+   "Z2": 89.99999999999993,
+   "Z3": 9789.071191360912,
+   "NOS": 2.8702648544836435
+  },
+  {
+   "eps": [
+    90.83333333333326,
+    9814.07119136091
+   ],
+   "Z1": 11088143.513925046,
+   "Z2": 90.83333333333326,
+   "Z3": 9814.071191360912,
+   "NOS": 2.8297459594363903
+  },
+  {
+   "eps": [
+    91.66666666666659,
+    9839.07119136091
+   ],
+   "Z1": 10488186.361350052,
+   "Z2": 91.66666666666657,
+   "Z3": 9839.07119136091,
+   "NOS": 2.7892266036896074
+  },
+  {
+   "eps": [
+    92.49999999999991,
+    9864.07119136091
+   ],
+   "Z1": 9888229.208775029,
+   "Z2": 92.49999999999991,
+   "Z3": 9864.071191360912,
+   "NOS": 2.7487072479428227
+  },
+  {
+   "eps": [
+    93.33333333333324,
+    9889.07119136091
+   ],
+   "Z1": 9288258.594450027,
+   "Z2": 93.33333333333324,
+   "Z3": 9889.071191360912,
+   "NOS": 2.708186740447215
+  },
+  {
+   "eps": [
+    94.16666666666657,
+    9914.07119136091
+   ],
+   "Z1": 8688274.518375024,
+   "Z2": 94.16666666666657,
+   "Z3": 9914.071191360912,
+   "NOS": 2.6676650812027827
+  },
+  {
+   "eps": [
+    94.9999999999999,
+    9939.071191360912
+   ],
+   "Z1": 8088290.442300014,
+   "Z2": 94.9999999999999,
+   "Z3": 9939.071191360912,
+   "NOS": 2.6271434219583503
+  },
+  {
+   "eps": [
+    95.83333333333323,
+    9964.071191360912
+   ],
+   "Z1": 7293623.359050013,
+   "Z2": 95.83333333333323,
+   "Z3": 9964.07119136091,
+   "NOS": 2.56996524148602
+  },
+  {
+   "eps": [
+    96.66666666666656,
+    9989.071191360912
+   ],
+   "Z1": 6498956.275800075,
+   "Z2": 96.6666666666665,
+   "Z3": 9989.071191360908,
+   "NOS": 2.5127870610136944
+  },
+  {
+   "eps": [
+    97.49999999999989,
+    10014.071191360912
+   ],
+   "Z1": 5704289.192550011,
+   "Z2": 97.49999999999989,
+   "Z3": 10014.071191360912,
+   "NOS": 2.4556088805413596
+  }
+ ],
+ "learning": {
+  "on": {
+   "lam": 0.45000000000316226,
+   "lam_phase1_raw": 0.45000000000318985,
+   "T": {
+    "Z1": 0.5744804111780465,
+    "Z2": 0.5000000000000341,
+    "Z3": 0.5000000000000273
+   },
+   "lam_check": 0.4500000000000246,
+   "phase1": {
+    "Z1": 7688489.784682455,
+    "Z2": 95.00000000003513,
+    "Z3": 9939.071191361965
+   },
+   "Z1": 8088290.442299698,
+   "Z2": 95.00000000000024,
+   "Z3": 9939.07119136092,
+   "NOS": 2.627143421958327
+  },
+  "off": {
+   "lam": 0.45000000000316775,
+   "lam_phase1_raw": 0.45000000000318985,
+   "T": {
+    "Z1": 0.5744804111780839,
+    "Z2": 0.5,
+    "Z3": 0.49999999999999695
+   },
+   "lam_check": 0.44999999999999724,
+   "phase1": {
+    "Z1": 7688489.784682455,
+    "Z2": 95.00000000003513,
+    "Z3": 11920.833333334389
+   },
+   "Z1": 8088290.442300014,
+   "Z2": 94.9999999999999,
+   "Z3": 11920.833333333332
+  }
+ },
+ "sens": [
+  {
+   "parameter": "E-waste collection volume",
+   "change": -0.1,
+   "status": "Infeasible (sol_status -1)"
+  },
+  {
+   "parameter": "E-waste collection volume",
+   "change": 0.1,
+   "status": "Infeasible (sol_status -1)"
+  },
+  {
+   "parameter": "Market demand",
+   "change": -0.1,
+   "dZ1": 3.914914747784842e-12,
+   "dZ3": -9.150701149655359e-14,
+   "dZ2": -3.410605131648481e-13
+  },
+  {
+   "parameter": "Market demand",
+   "change": 0.1,
+   "dZ1": 3.914914747784842e-12,
+   "dZ3": -9.150701149655359e-14,
+   "dZ2": -3.410605131648481e-13
+  },
+  {
+   "parameter": "Fuel price",
+   "change": -0.1,
+   "dZ1": 0.09294709214392725,
+   "dZ3": -9.150701149655359e-14,
+   "dZ2": -3.410605131648481e-13
+  },
+  {
+   "parameter": "Fuel price",
+   "change": 0.1,
+   "dZ1": -0.0929465871792012,
+   "dZ3": -1.2930709383359593e-08,
+   "dZ2": -4.283981525077252e-08
+  },
+  {
+   "parameter": "Selling prices",
+   "change": -0.15,
+   "dZ1": -38.837000401204705,
+   "dZ3": -1.0061302316350194,
+   "dZ2": -3.3333333333336554
+  },
+  {
+   "parameter": "Selling prices",
+   "change": 0.15,
+   "dZ1": 29.20860713835358,
+   "dZ3": 1.0061302316348364,
+   "dZ2": 3.3333333333329733
+  },
+  {
+   "parameter": "Collection capacity",
+   "change": -0.25,
+   "status": "Infeasible (sol_status -1)"
+  }
+ ],
+ "recovery": [
+  {
+   "name": "Conservative (70%)",
+   "alpha": 0.25,
+   "beta": 0.45,
+   "gamma": 0.3,
+   "lam": 0.22499999999372788,
+   "lam_phase1_raw": 0.22500000000014098,
+   "T": {
+    "Z1": 0.26745408576671986,
+    "Z2": 0.25,
+    "Z3": 0.24999999999999847
+   },
+   "lam_check": 0.22499999999999862,
+   "phase1": {
+    "Z1": 5439830.084638093,
+    "Z2": 92.49999999993022,
+    "Z3": 9864.07119135882
+   },
+   "Z1": 5490913.303612538,
+   "Z2": 92.49999999999991,
+   "Z3": 9864.07119136091
+  },
+  {
+   "name": "Baseline (80%)",
+   "alpha": 0.3,
+   "beta": 0.5,
+   "gamma": 0.2,
+   "lam": 0.45000000000316226,
+   "lam_phase1_raw": 0.45000000000318985,
+   "T": {
+    "Z1": 0.5744804111780465,
+    "Z2": 0.5000000000000341,
+    "Z3": 0.5000000000000273
+   },
+   "lam_check": 0.4500000000000246,
+   "phase1": {
+    "Z1": 7688489.784682455,
+    "Z2": 95.00000000003513,
+    "Z3": 9939.071191361965
+   },
+   "Z1": 8088290.442299698,
+   "Z2": 95.00000000000024,
+   "Z3": 9939.07119136092
+  },
+  {
+   "name": "Ambitious (90%)",
+   "alpha": 0.35,
+   "beta": 0.55,
+   "gamma": 0.1,
+   "lam": 0.6685657897174996,
+   "lam_phase1_raw": 0.6685657897174925,
+   "T": {
+    "Z1": 0.7428508774638901,
+    "Z2": 0.75,
+    "Z3": 0.7499999999999893
+   },
+   "lam_check": 0.6685657897175011,
+   "phase1": {
+    "Z1": 9512668.626727559,
+    "Z2": 97.49999999999989,
+    "Z3": 10014.071191360908
+   },
+   "Z1": 9512668.626727574,
+   "Z2": 97.49999999999989,
+   "Z3": 10014.071191360908
+  }
+ ],
+ "disruption": [
+  {
+   "tier": "Collection",
+   "site": "Riyadh",
+   "uncovered": [],
+   "longest_haul": 0.0,
+   "strict_feasible": false,
+   "strict_status": "Infeasible (sol_status -1)",
+   "feasible": true,
+   "Z2": 92.49999999999991,
+   "lam": 0.22499999999992767,
+   "Z1max": 11672182.488900078,
+   "dZ1": -29.671462206402477,
+   "dZ3": -0.7545976737262874,
+   "dZ1max": -0.13614530439999478
+  },
+  {
+   "tier": "Collection",
+   "site": "Jeddah",
+   "uncovered": [],
+   "longest_haul": 0.0,
+   "strict_feasible": false,
+   "strict_status": "Infeasible (sol_status -1)",
+   "feasible": true,
+   "Z2": 92.49999999999991,
+   "lam": 0.22499999999999862,
+   "Z1max": 11669351.434050024,
+   "dZ1": -29.70130462530032,
+   "dZ3": -0.7545976737263057,
+   "dZ1max": -0.16036699990981187
+  },
+  {
+   "tier": "Collection",
+   "site": "Mecca",
+   "uncovered": [
+    "Al Qunfudhah"
+   ],
+   "longest_haul": 310.0,
+   "strict_feasible": false,
+   "strict_status": "coverage lost",
+   "feasible": true,
+   "Z2": 92.49999999999991,
+   "lam": 0.2249999999984434,
+   "Z1max": 11672562.375300232,
+   "dZ1": -29.661605986012958,
+   "dZ3": -0.7545976737262691,
+   "dZ1max": -0.13289510502195417
+  },
+  {
+   "tier": "Collection",
+   "site": "Medina",
+   "uncovered": [
+    "Medina",
+    "Yanbu"
+   ],
+   "longest_haul": 420.0,
+   "strict_feasible": false,
+   "strict_status": "coverage lost",
+   "feasible": true,
+   "Z2": 92.49999999999994,
+   "lam": 0.2249999999999059,
+   "Z1max": 11683366.106250048,
+   "dZ1": -29.52259012129149,
+   "dZ3": -0.7545976737262324,
+   "dZ1max": -0.04046147328523963
+  },
+  {
+   "tier": "Collection",
+   "site": "Dammam",
+   "uncovered": [
+    "Dammam",
+    "Al Khobar",
+    "Al Jubayl",
+    "Al Mubarraz"
+   ],
+   "longest_haul": 435.0,
+   "strict_feasible": false,
+   "strict_status": "coverage lost",
+   "feasible": true,
+   "Z2": 92.49999999999991,
+   "lam": 0.22499999999998227,
+   "Z1max": 11678640.139200062,
+   "dZ1": -29.591622721939927,
+   "dZ3": -0.7545976737262691,
+   "dZ1max": -0.08089549556212076
+  },
+  {
+   "tier": "Collection",
+   "site": "Tabuk",
+   "uncovered": [
+    "Tabuk"
+   ],
+   "longest_haul": 482.0,
+   "strict_feasible": false,
+   "strict_status": "coverage lost",
+   "feasible": true,
+   "Z2": 92.49999999999991,
+   "lam": 0.22499999999999318,
+   "Z1max": 11688095.281800047,
+   "dZ1": -29.47472357424145,
+   "dZ3": -0.7545976737262874,
+   "dZ1max": 0.0
+  },
+  {
+   "tier": "Collection",
+   "site": "Abha",
+   "uncovered": [
+    "Abha",
+    "Jizan",
+    "Khamis Mushait",
+    "Najran",
+    "Bisha"
+   ],
+   "longest_haul": 891.0,
+   "strict_feasible": false,
+   "strict_status": "coverage lost",
+   "feasible": true,
+   "Z2": 92.49999999999991,
+   "lam": 0.225,
+   "Z1max": 11685537.270300016,
+   "dZ1": -29.50036621330985,
+   "dZ3": -0.7545976737262874,
+   "dZ1max": -0.021885614707589932
+  },
+  {
+   "tier": "Collection",
+   "site": "Buraidah",
+   "uncovered": [
+    "Buraidah",
+    "Ha'il"
+   ],
+   "longest_haul": 434.0,
+   "strict_feasible": false,
+   "strict_status": "coverage lost",
+   "feasible": true,
+   "Z2": 92.49999999999991,
+   "lam": 0.225,
+   "Z1max": 11686428.535800032,
+   "dZ1": -29.497888693971166,
+   "dZ3": -0.7545976737263057,
+   "dZ1max": -0.014260202024615556
+  },
+  {
+   "tier": "Collection",
+   "site": "Hafar Al-Batin",
+   "uncovered": [
+    "Hafar Al-Batin"
+   ],
+   "longest_haul": 420.0,
+   "strict_feasible": false,
+   "strict_status": "coverage lost",
+   "feasible": true,
+   "Z2": 92.49999999999991,
+   "lam": 0.224999999999764,
+   "Z1max": 11687422.333800066,
+   "dZ1": -29.483043601876915,
+   "dZ3": -0.7545976737263057,
+   "dZ1max": -0.00575755059961029
+  },
+  {
+   "tier": "Collection",
+   "site": "Sakakah",
+   "uncovered": [
+    "Sakakah",
+    "Arar"
+   ],
+   "longest_haul": 695.0,
+   "strict_feasible": false,
+   "strict_status": "coverage lost",
+   "feasible": true,
+   "Z2": 92.49999999999991,
+   "lam": 0.225,
+   "Z1max": 11684655.094620064,
+   "dZ1": -29.517398900068333,
+   "dZ3": -0.7545976737263057,
+   "dZ1max": -0.02943325749011904
+  },
+  {
+   "tier": "Collection",
+   "site": "Al Kharj",
+   "uncovered": [],
+   "longest_haul": 0.0,
+   "strict_feasible": false,
+   "strict_status": "Infeasible (sol_status -1)",
+   "feasible": true,
+   "Z2": 92.49999999999991,
+   "lam": 0.225,
+   "Z1max": 11679209.396850035,
+   "dZ1": -29.584584675229763,
+   "dZ3": -0.7545976737263057,
+   "dZ1max": -0.0760250899378661
+  },
+  {
+   "tier": "Segregation",
+   "site": "Riyadh",
+   "uncovered": [
+    "Dammam",
+    "Al Kharj"
+   ],
+   "longest_haul": 1160.0,
+   "strict_feasible": false,
+   "strict_status": "coverage lost",
+   "feasible": true,
+   "Z2": 94.16666666666657,
+   "lam": 0.375,
+   "Z1max": 14381235.691950137,
+   "dZ1": -15.870490025140743,
+   "dZ3": -0.25153255790884177,
+   "dZ1max": 23.04173901066392
+  },
+  {
+   "tier": "Segregation",
+   "site": "Jeddah",
+   "uncovered": [],
+   "longest_haul": 0.0,
+   "strict_feasible": false,
+   "strict_status": "Infeasible (sol_status -1)",
+   "feasible": true,
+   "Z2": 94.16666666666657,
+   "lam": 0.3749999999999977,
+   "Z1max": 14390547.707550071,
+   "dZ1": -15.778204292411273,
+   "dZ3": -0.25153255790882345,
+   "dZ1max": 23.121409952553265
+  },
+  {
+   "tier": "Segregation",
+   "site": "Sakakah",
+   "uncovered": [
+    "Tabuk",
+    "Sakakah"
+   ],
+   "longest_haul": 1152.0,
+   "strict_feasible": false,
+   "strict_status": "coverage lost",
+   "feasible": true,
+   "Z2": 94.16666666666657,
+   "lam": 0.3749999999999977,
+   "Z1max": 14501074.352700047,
+   "dZ1": -14.415427746040914,
+   "dZ3": -0.25153255790884177,
+   "dZ1max": 24.067044313714582
+  },
+  {
+   "tier": "Recycling",
+   "site": "Turbarjal",
+   "uncovered": [],
+   "longest_haul": 0.0,
+   "strict_feasible": true,
+   "feasible": true,
+   "Z2": 94.9999999999999,
+   "lam": 0.44999999999999724,
+   "Z1max": 11688095.281800047,
+   "dZ1": 3.822799106660493e-12,
+   "dZ3": -1.0980841379586431e-13,
+   "dZ1max": 0.0
+  },
+  {
+   "tier": "Recycling",
+   "site": "Ad Dilam",
+   "uncovered": [],
+   "longest_haul": 0.0,
+   "strict_feasible": true,
+   "feasible": true,
+   "Z2": 94.9999999999999,
+   "lam": 0.44999999999999724,
+   "Z1max": 11667450.04905004,
+   "dZ1": -0.25524840999428094,
+   "dZ3": -1.0980841379586431e-13,
+   "dZ1max": -0.1766347061026569
+  },
+  {
+   "tier": "Recycling",
+   "site": "Umm Lajj",
+   "uncovered": [],
+   "longest_haul": 0.0,
+   "strict_feasible": true,
+   "feasible": true,
+   "Z2": 94.9999999999999,
+   "lam": 0.44999999999999724,
+   "Z1max": 11666945.400825059,
+   "dZ1": -0.2571702604903681,
+   "dZ3": -1.0980841379586431e-13,
+   "dZ1max": -0.18095233196738875
+  },
+  {
+   "tier": "Refurbishing",
+   "site": "Riyadh",
+   "uncovered": [],
+   "longest_haul": 0.0,
+   "strict_feasible": true,
+   "feasible": true,
+   "Z2": 94.9999999999999,
+   "lam": 0.39112491301923064,
+   "Z1max": 11672792.724675052,
+   "dZ1": -14.632266553328009,
+   "dZ3": -9.150701149655359e-14,
+   "dZ1max": -0.1309243016595087
+  },
+  {
+   "tier": "Refurbishing",
+   "site": "Jeddah",
+   "uncovered": [],
+   "longest_haul": 0.0,
+   "strict_feasible": true,
+   "feasible": true,
+   "Z2": 94.9999999999999,
+   "lam": 0.38825342520998235,
+   "Z1max": 11645801.420700029,
+   "dZ1": -14.965974945324735,
+   "dZ3": -9.150701149655359e-14,
+   "dZ1max": -0.36185417795040836
+  },
+  {
+   "tier": "Refurbishing",
+   "site": "Dammam",
+   "uncovered": [],
+   "longest_haul": 0.0,
+   "strict_feasible": true,
+   "feasible": true,
+   "Z2": 94.9999999999999,
+   "lam": 0.39275288572760403,
+   "Z1max": 11688095.281800047,
+   "dZ1": -14.443072591585905,
+   "dZ3": -9.150701149655359e-14,
+   "dZ1max": 0.0
+  }
+ ],
+ "solve_log": [
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.07841253280639648
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.04689955711364746
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.04643702507019043
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 27.349292039871216
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.6977508068084717
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.1631317138671875
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.20210695266723633
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.06885695457458496
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.07920718193054199
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.06909012794494629
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.23038101196289062
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.07299017906188965
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.06783699989318848
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.07456064224243164
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.08832669258117676
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.08172488212585449
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.22331714630126953
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.27469611167907715
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.22464799880981445
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.17441177368164062
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.23019623756408691
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.07252931594848633
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.10880637168884277
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.1287548542022705
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.0718224048614502
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.06954503059387207
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.04412436485290527
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.046502113342285156
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 27.553472757339478
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.6775119304656982
+  },
+  {
+   "status": "Infeasible",
+   "sol_status": -1,
+   "seconds": 0.0359501838684082
+  },
+  {
+   "status": "Infeasible",
+   "sol_status": -1,
+   "seconds": 0.03272390365600586
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 1.2421166896820068
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.10246610641479492
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 18.84926199913025
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.5193140506744385
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 2.500844717025757
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.9006130695343018
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 1.0893878936767578
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.10271835327148438
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 151.43301391601562
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 6.36832070350647
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.10097408294677734
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.4998624324798584
+  },
+  {
+   "status": "Infeasible",
+   "sol_status": -1,
+   "seconds": 0.03905677795410156
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 8.9181387424469
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 4.843432188034058
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 30.945570468902588
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.8337240219116211
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.4483978748321533
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 1.033820629119873
+  },
+  {
+   "status": "Infeasible",
+   "sol_status": -1,
+   "seconds": 0.05892181396484375
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 1.532966136932373
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 1.0548560619354248
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 1.8030452728271484
+  },
+  {
+   "status": "Infeasible",
+   "sol_status": -1,
+   "seconds": 0.056374311447143555
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.7691500186920166
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 1.5224459171295166
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 1.0153462886810303
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 1.360241413116455
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 1.331042766571045
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 1.8110957145690918
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.7588086128234863
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.4776954650878906
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.9916074275970459
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 1.0464086532592773
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 1.0942649841308594
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 1.0195696353912354
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.6371331214904785
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.5614745616912842
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.728295087814331
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 1.206200122833252
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 1.1407036781311035
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 1.564699649810791
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.8427486419677734
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.5883626937866211
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 1.3917694091796875
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.6686928272247314
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.7722353935241699
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.7183222770690918
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.9469807147979736
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.2512180805206299
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.8109841346740723
+  },
+  {
+   "status": "Infeasible",
+   "sol_status": -1,
+   "seconds": 0.04791688919067383
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 2.775247812271118
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.8103468418121338
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 1.5968539714813232
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.06857776641845703
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.17900824546813965
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.09203648567199707
+  },
+  {
+   "status": "Infeasible",
+   "sol_status": -1,
+   "seconds": 0.04036355018615723
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.08421993255615234
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.21748995780944824
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.15527105331420898
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.10692715644836426
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.34866833686828613
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.14092493057250977
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.08054351806640625
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.07463240623474121
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.09085893630981445
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.07333612442016602
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.10684919357299805
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.05730867385864258
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.059911489486694336
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.08427143096923828
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.06620359420776367
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.203599214553833
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.06179690361022949
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.08199191093444824
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.09325098991394043
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.08171296119689941
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.1402902603149414
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.05819201469421387
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.0655980110168457
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.0799264907836914
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.059805870056152344
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.1414813995361328
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.0808262825012207
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.07371807098388672
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.09263372421264648
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.04739665985107422
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.26826047897338867
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.06465411186218262
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.06301593780517578
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.06434178352355957
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.08234071731567383
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.14079785346984863
+  }
+ ]
+}

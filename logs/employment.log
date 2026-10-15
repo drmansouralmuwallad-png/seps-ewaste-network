@@ -1,0 +1,9 @@
+e_min=10: profit 8.09 M SAR, util 95.00%, Z3 8229 worker-periods, avg 1372/period
+e_min=25: profit 8.09 M SAR, util 95.00%, Z3 9939 worker-periods, avg 1657/period
+e_min=40: profit 8.09 M SAR, util 95.00%, Z3 11649 worker-periods, avg 1942/period
+{'period': 1, 'tonnes': 1823.0, 'wc': 1.2, 'tonnage_workers': 1519.1666666666667, 'open': 19, 'floor_workers': 475.0, 'total': 1994.1666666666667}
+{'period': 2, 'tonnes': 1801.0, 'wc': 1.411764705882353, 'tonnage_workers': 1275.7083333333333, 'open': 19, 'floor_workers': 475.0, 'total': 1750.7083333333333}
+{'period': 3, 'tonnes': 1827.0, 'wc': 1.5525643227733184, 'tonnage_workers': 1176.7628388732146, 'open': 19, 'floor_workers': 475.0, 'total': 1651.7628388732146}
+{'period': 4, 'tonnes': 1810.0, 'wc': 1.6608996539792389, 'tonnage_workers': 1089.7708333333333, 'open': 19, 'floor_workers': 475.0, 'total': 1564.7708333333333}
+{'period': 5, 'tonnes': 1823.0, 'wc': 1.7501103185953113, 'tonnage_workers': 1041.6486210213263, 'open': 19, 'floor_workers': 475.0, 'total': 1516.6486210213263}
+{'period': 6, 'tonnes': 1801.0, 'wc': 1.8265462620862567, 'tonnage_workers': 986.0138981330382, 'open': 19, 'floor_workers': 475.0, 'total': 1461.0138981330383}

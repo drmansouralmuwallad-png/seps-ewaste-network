@@ -1,0 +1,17 @@
+radius_km: [300.0, 1000.0]
+one_out_minimum: [8, 3]
+peak_tonnes: 1827.0
+collection: ['Riyadh', 'Jeddah', 'Mecca', 'Medina', 'Dammam', 'Tabuk', 'Abha', 'Buraidah', 'Hafar Al-Batin', 'Sakakah', 'Al Kharj']
+n_collection: 11
+n_collection_uncapacitated: 9
+collection_tonnage: {'Riyadh': 1787.67123675, 'Jeddah': 1630.0, 'Mecca': 1541.0, 'Medina': 797.0, 'Dammam': 1648.0, 'Tabuk': 270.0, 'Abha': 802.0, 'Buraidah': 510.0, 'Hafar Al-Batin': 204.0, 'Sakakah': 276.0, 'Al Kharj': 1419.3287632499998}
+collection_peak_load: {'Riyadh': 300.00000065, 'Jeddah': 273.0, 'Mecca': 259.0, 'Medina': 134.0, 'Dammam': 277.0, 'Tabuk': 45.0, 'Abha': 136.0, 'Buraidah': 85.0, 'Hafar Al-Batin': 34.0, 'Sakakah': 46.0, 'Al Kharj': 237.99999935}
+assignment_fractions: {'Riyadh->Riyadh': 0.58708415, 'Riyadh->Al Kharj': 0.41291585, 'Jeddah->Jeddah': 1.0, 'Mecca->Mecca': 1.0, 'Medina->Medina': 1.0, 'Dammam->Dammam': 1.0, "Ta'if->Mecca": 1.0, 'Tabuk->Tabuk': 1.0, 'Abha->Abha': 1.0, 'Buraidah->Buraidah': 1.0, 'Jizan->Abha': 1.0, 'Khamis Mushait->Abha': 1.0, 'Al Khobar->Dammam': 1.0, 'Najran->Abha': 1.0, "Ha'il->Buraidah": 1.0, 'Al Jubayl->Dammam': 1.0, 'Hafar Al-Batin->Hafar Al-Batin': 1.0, 'Sakakah->Sakakah': 1.0, 'Arar->Sakakah': 1.0, 'Al Mubarraz->Dammam': 1.0, 'Yanbu->Medina': 1.0, 'Al Kharj->Al Kharj': 1.0, 'Qurayyat->Sakakah': 1.0, 'Al Qunfudhah->Mecca': 1.0, 'Bisha->Abha': 1.0}
+segregation: ['Riyadh', 'Jeddah', 'Sakakah']
+n_segregation: 3
+segregation_without_equity: ['Riyadh', 'Jeddah', 'Sakakah']
+segregation_wide_equity: ['Riyadh', 'Jeddah', 'Sakakah']
+high_income_regions: ['Eastern', 'Riyadh']
+high_income_regions_wide: ['Eastern', 'Makkah', 'Riyadh']
+investment_kusd: 34750.0
+max_distance_city_to_cc: 295

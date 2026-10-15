@@ -1,0 +1,7 @@
+pulp==2.9.0
+highspy==1.15.1
+numpy==2.5.3
+matplotlib==3.11.2
+geopandas==0.14.4
+geonamescache==3.0.2
+python-docx==1.2.0

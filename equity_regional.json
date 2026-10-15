@@ -1,0 +1,819 @@
+{
+ "pop_share_low": 53.526564528855445,
+ "pop_share_wide": 24.412042441205042,
+ "variants": {
+  "as_written": {
+   "lam": 0.45000000000316226,
+   "regions": {
+    "Riyadh": 2838.609294788101,
+    "Makkah": 2665.1689772408363,
+    "Madinah": 668.981986652279,
+    "Eastern": 1656.1018269352583,
+    "Tabuk": 475.8023816044921,
+    "Asir": 672.6264576913505,
+    "Qassim": 482.07116525291076,
+    "Al-Jouf": 479.7091011956928
+   },
+   "regions_seg": {
+    "Riyadh": 4361.1554086112465,
+    "Makkah": 3706.7774215846475,
+    "Madinah": 150.0,
+    "Eastern": 450.0,
+    "Tabuk": 300.0000000000099,
+    "Asir": 150.0,
+    "Qassim": 150.0,
+    "Al-Jouf": 671.138361165018
+   },
+   "open": {
+    "cc": [
+     "Riyadh",
+     "Jeddah",
+     "Mecca",
+     "Medina",
+     "Dammam",
+     "Tabuk",
+     "Abha",
+     "Buraidah",
+     "Hafar Al-Batin",
+     "Sakakah",
+     "Al Kharj"
+    ],
+    "sc": [
+     "Riyadh",
+     "Jeddah",
+     "Sakakah"
+    ]
+   },
+   "sc_slots": {
+    "Riyadh": 6,
+    "Jeddah": 6,
+    "Sakakah": 6
+   },
+   "Z1": 8088290.442299698,
+   "Z2": 95.00000000000024,
+   "Z3": 9939.07119136092,
+   "total": 9939.071191360921,
+   "low": 5444.3600696375615,
+   "low_share": 54.77735257968391,
+   "wide": 2779.1910923967253,
+   "wide_share": 27.96228177550845,
+   "sc_low": 300.0,
+   "low_share_seg": 51.593510943023325,
+   "wide_share_seg": 14.29850268504251,
+   "label": "at least one outside Riyadh and Eastern (Stage 1 choice)",
+   "sc_sites": [
+    "Riyadh",
+    "Jeddah",
+    "Sakakah"
+   ]
+  },
+  "none": {
+   "lam": 0.45000000000316226,
+   "regions": {
+    "Riyadh": 2838.609294788101,
+    "Makkah": 2665.1689772408363,
+    "Madinah": 668.981986652279,
+    "Eastern": 1656.1018269352583,
+    "Tabuk": 475.8023816044921,
+    "Asir": 672.6264576913505,
+    "Qassim": 482.07116525291076,
+    "Al-Jouf": 479.7091011956928
+   },
+   "regions_seg": {
+    "Riyadh": 4361.1554086112465,
+    "Makkah": 3706.7774215846475,
+    "Madinah": 150.0,
+    "Eastern": 450.0,
+    "Tabuk": 300.0000000000099,
+    "Asir": 150.0,
+    "Qassim": 150.0,
+    "Al-Jouf": 671.138361165018
+   },
+   "open": {
+    "cc": [
+     "Riyadh",
+     "Jeddah",
+     "Mecca",
+     "Medina",
+     "Dammam",
+     "Tabuk",
+     "Abha",
+     "Buraidah",
+     "Hafar Al-Batin",
+     "Sakakah",
+     "Al Kharj"
+    ],
+    "sc": [
+     "Riyadh",
+     "Jeddah",
+     "Sakakah"
+    ]
+   },
+   "sc_slots": {
+    "Riyadh": 6,
+    "Jeddah": 6,
+    "Sakakah": 6
+   },
+   "Z1": 8088290.442299698,
+   "Z2": 95.00000000000024,
+   "Z3": 9939.07119136092,
+   "total": 9939.071191360921,
+   "low": 5444.3600696375615,
+   "low_share": 54.77735257968391,
+   "wide": 2779.1910923967253,
+   "wide_share": 27.96228177550845,
+   "sc_low": 300.0,
+   "low_share_seg": 51.593510943023325,
+   "wide_share_seg": 14.29850268504251,
+   "label": "no equity rule (Stage 1 choice)",
+   "sc_sites": [
+    "Riyadh",
+    "Jeddah",
+    "Sakakah"
+   ]
+  },
+  "narrow_all": {
+   "lam": 0.4500000000005266,
+   "regions": {
+    "Riyadh": 2688.609294788101,
+    "Makkah": 2665.1689772408363,
+    "Madinah": 818.9819866522791,
+    "Eastern": 1656.1018269352583,
+    "Tabuk": 530.4964558814322,
+    "Asir": 672.6264576913505,
+    "Qassim": 632.0711652529108,
+    "Al-Jouf": 275.0150269187429
+   },
+   "regions_seg": {
+    "Riyadh": 600.0,
+    "Makkah": 3228.2091371770225,
+    "Madinah": 1049.4784425337114,
+    "Eastern": 450.0,
+    "Tabuk": 300.0,
+    "Asir": 150.0,
+    "Qassim": 4011.3836116501807,
+    "Al-Jouf": 150.0
+   },
+   "open": {
+    "cc": [
+     "Riyadh",
+     "Jeddah",
+     "Mecca",
+     "Medina",
+     "Dammam",
+     "Tabuk",
+     "Abha",
+     "Buraidah",
+     "Hafar Al-Batin",
+     "Sakakah",
+     "Al Kharj"
+    ],
+    "sc": [
+     "Jeddah",
+     "Medina",
+     "Buraidah"
+    ]
+   },
+   "sc_slots": {
+    "Jeddah": 6,
+    "Medina": 6,
+    "Buraidah": 6
+   },
+   "Z1": 8046170.064794987,
+   "Z2": 94.9999999999999,
+   "Z3": 9939.07119136091,
+   "total": 9939.071191360912,
+   "low": 5594.3600696375515,
+   "low_share": 56.28654792713625,
+   "wide": 2929.1910923967157,
+   "wide_share": 29.47147712296077,
+   "sc_low": 450.0,
+   "low_share_seg": 89.43563256783327,
+   "wide_share_seg": 56.95564449829416,
+   "label": "all three outside Riyadh and Eastern",
+   "sc_sites": [
+    "Jeddah",
+    "Medina",
+    "Buraidah"
+   ]
+  },
+  "wide_two": {
+   "lam": 0.44999999999999724,
+   "regions": {
+    "Riyadh": 2838.609294788101,
+    "Makkah": 2515.1689772408363,
+    "Madinah": 818.9819866522791,
+    "Eastern": 1656.1018269352583,
+    "Tabuk": 530.4964558814322,
+    "Asir": 822.6264576913505,
+    "Qassim": 482.07116525291076,
+    "Al-Jouf": 275.0150269187429
+   },
+   "regions_seg": {
+    "Riyadh": 4376.78228697627,
+    "Makkah": 450.0,
+    "Madinah": 3239.6624466932913,
+    "Eastern": 450.0,
+    "Tabuk": 300.0,
+    "Asir": 822.6264576913507,
+    "Qassim": 150.0,
+    "Al-Jouf": 150.0
+   },
+   "open": {
+    "cc": [
+     "Riyadh",
+     "Jeddah",
+     "Mecca",
+     "Medina",
+     "Dammam",
+     "Tabuk",
+     "Abha",
+     "Buraidah",
+     "Hafar Al-Batin",
+     "Sakakah",
+     "Al Kharj"
+    ],
+    "sc": [
+     "Riyadh",
+     "Yanbu",
+     "Bisha"
+    ]
+   },
+   "sc_slots": {
+    "Riyadh": 6,
+    "Yanbu": 6,
+    "Bisha": 6
+   },
+   "Z1": 8073046.239420049,
+   "Z2": 94.9999999999999,
+   "Z3": 9939.07119136091,
+   "total": 9939.071191360912,
+   "low": 5444.3600696375515,
+   "low_share": 54.77735257968385,
+   "wide": 2929.1910923967157,
+   "wide_share": 29.47147712296077,
+   "sc_low": 300.0,
+   "low_share_seg": 51.43628419553195,
+   "wide_share_seg": 46.90869815317477,
+   "label": "two of three outside Riyadh, Eastern and Makkah",
+   "sc_sites": [
+    "Riyadh",
+    "Yanbu",
+    "Bisha"
+   ]
+  },
+  "wide_all": {
+   "lam": 0.44999999999999724,
+   "regions": {
+    "Riyadh": 2688.609294788101,
+    "Makkah": 2515.1689772408363,
+    "Madinah": 818.9819866522791,
+    "Eastern": 1656.1018269352583,
+    "Tabuk": 530.4964558814322,
+    "Asir": 822.6264576913505,
+    "Qassim": 632.0711652529108,
+    "Al-Jouf": 275.0150269187429
+   },
+   "regions_seg": {
+    "Riyadh": 600.0,
+    "Makkah": 450.0,
+    "Madinah": 3155.0611220193823,
+    "Eastern": 450.0,
+    "Tabuk": 300.0,
+    "Asir": 822.6264576913507,
+    "Qassim": 4011.38361165018,
+    "Al-Jouf": 150.0
+   },
+   "open": {
+    "cc": [
+     "Riyadh",
+     "Jeddah",
+     "Mecca",
+     "Medina",
+     "Dammam",
+     "Tabuk",
+     "Abha",
+     "Buraidah",
+     "Hafar Al-Batin",
+     "Sakakah",
+     "Al Kharj"
+    ],
+    "sc": [
+     "Buraidah",
+     "Yanbu",
+     "Bisha"
+    ]
+   },
+   "sc_slots": {
+    "Buraidah": 6,
+    "Yanbu": 6,
+    "Bisha": 6
+   },
+   "Z1": 8028593.719049975,
+   "Z2": 94.9999999999999,
+   "Z3": 9939.07119136091,
+   "total": 9939.071191360912,
+   "low": 5594.3600696375515,
+   "low_share": 56.28654792713625,
+   "wide": 3079.1910923967157,
+   "wide_share": 30.98067247041316,
+   "sc_low": 450.0,
+   "low_share_seg": 89.43563256783325,
+   "wide_share_seg": 84.90804652547607,
+   "label": "all three outside Riyadh, Eastern and Makkah",
+   "sc_sites": [
+    "Buraidah",
+    "Yanbu",
+    "Bisha"
+   ]
+  }
+ },
+ "share_floor_infeasible_at_collection": 58.0,
+ "share_floor_sweep_collection": [
+  {
+   "lam": 0.4499999999999918,
+   "regions": {
+    "Riyadh": 2813.6092947881016,
+    "Makkah": 2665.1689772408363,
+    "Madinah": 668.981986652279,
+    "Eastern": 1656.1018269352583,
+    "Tabuk": 475.80238160448215,
+    "Asir": 672.6264576913505,
+    "Qassim": 482.07116525291076,
+    "Al-Jouf": 504.7091011956928
+   },
+   "regions_seg": {
+    "Riyadh": 4336.155408611142,
+    "Makkah": 3706.7774215844665,
+    "Madinah": 150.0,
+    "Eastern": 450.0,
+    "Tabuk": 300.0,
+    "Asir": 150.0,
+    "Qassim": 150.0,
+    "Al-Jouf": 696.1383611653042
+   },
+   "open": {
+    "cc": [
+     "Riyadh",
+     "Jeddah",
+     "Mecca",
+     "Medina",
+     "Dammam",
+     "Tabuk",
+     "Abha",
+     "Buraidah",
+     "Hafar Al-Batin",
+     "Sakakah",
+     "Al Kharj"
+    ],
+    "sc": [
+     "Riyadh",
+     "Jeddah",
+     "Sakakah"
+    ]
+   },
+   "sc_slots": {
+    "Riyadh": 6,
+    "Jeddah": 6,
+    "Sakakah": 6
+   },
+   "Z1": 8084877.867750902,
+   "Z2": 94.99999999999993,
+   "Z3": 9939.07119136091,
+   "total": 9939.071191360912,
+   "low": 5469.3600696375515,
+   "low_share": 55.02888513759258,
+   "wide": 2804.1910923967152,
+   "wide_share": 28.2138143334171,
+   "sc_low": 300.0,
+   "low_share_seg": 51.845043500933066,
+   "wide_share_seg": 14.550035242954033,
+   "floor": 55.0
+  },
+  {
+   "lam": 0.45000000000055934,
+   "regions": {
+    "Riyadh": 2713.609294788101,
+    "Makkah": 2665.1689772408363,
+    "Madinah": 668.981986652279,
+    "Eastern": 1656.1018269352583,
+    "Tabuk": 475.80238160448215,
+    "Asir": 672.6264576913505,
+    "Qassim": 482.07116525291076,
+    "Al-Jouf": 604.7091011956928
+   },
+   "regions_seg": {
+    "Riyadh": 4236.155408611427,
+    "Makkah": 3706.7774215844665,
+    "Madinah": 150.0,
+    "Eastern": 450.0,
+    "Tabuk": 300.0,
+    "Asir": 150.0,
+    "Qassim": 150.0,
+    "Al-Jouf": 796.138361165018
+   },
+   "open": {
+    "cc": [
+     "Riyadh",
+     "Jeddah",
+     "Mecca",
+     "Medina",
+     "Dammam",
+     "Tabuk",
+     "Abha",
+     "Buraidah",
+     "Hafar Al-Batin",
+     "Sakakah",
+     "Al Kharj"
+    ],
+    "sc": [
+     "Riyadh",
+     "Jeddah",
+     "Sakakah"
+    ]
+   },
+   "sc_slots": {
+    "Riyadh": 6,
+    "Jeddah": 6,
+    "Sakakah": 6
+   },
+   "Z1": 8071112.984249979,
+   "Z2": 94.9999999999999,
+   "Z3": 9939.07119136091,
+   "total": 9939.07119136091,
+   "low": 5569.3600696375515,
+   "low_share": 56.03501536922752,
+   "wide": 2904.1910923967152,
+   "wide_share": 29.219944565052035,
+   "sc_low": 300.0,
+   "low_share_seg": 52.851173732565115,
+   "wide_share_seg": 15.556165474586088,
+   "floor": 56.0
+  },
+  {
+   "lam": 0.07499999999999955,
+   "regions": {
+    "Riyadh": 2688.609294788101,
+    "Makkah": 2665.1689772408363,
+    "Madinah": 668.981986652279,
+    "Eastern": 1531.101826935258,
+    "Tabuk": 475.80238160448215,
+    "Asir": 672.6264576913505,
+    "Qassim": 482.07116525291076,
+    "Al-Jouf": 629.7091011956928
+   },
+   "regions_seg": {
+    "Riyadh": 4211.155408611427,
+    "Makkah": 3706.777421584466,
+    "Madinah": 150.0,
+    "Eastern": 325.0,
+    "Tabuk": 300.0,
+    "Asir": 150.0,
+    "Qassim": 150.0,
+    "Al-Jouf": 821.138361165018
+   },
+   "open": {
+    "cc": [
+     "Riyadh",
+     "Jeddah",
+     "Mecca",
+     "Medina",
+     "Dammam",
+     "Tabuk",
+     "Abha",
+     "Buraidah",
+     "Hafar Al-Batin",
+     "Sakakah",
+     "Al Kharj"
+    ],
+    "sc": [
+     "Riyadh",
+     "Jeddah",
+     "Sakakah"
+    ]
+   },
+   "sc_slots": {
+    "Riyadh": 6,
+    "Jeddah": 6,
+    "Sakakah": 6
+   },
+   "Z1": 11067492.896475032,
+   "Z2": 90.83333333333326,
+   "Z3": 9814.071191360908,
+   "total": 9814.07119136091,
+   "low": 5594.3600696375515,
+   "low_share": 57.00345922253072,
+   "wide": 2929.1910923967152,
+   "wide_share": 29.846849847341755,
+   "sc_low": 300.0,
+   "low_share_seg": 53.77906558692488,
+   "wide_share_seg": 16.009037743154472,
+   "floor": 57.0
+  }
+ ],
+ "share_floor_infeasible_at_segregation": 67.0,
+ "share_floor_sweep_segregation": [
+  {
+   "lam": 0.4499999999999918,
+   "regions": {
+    "Riyadh": 2838.609294788101,
+    "Makkah": 2665.1689772408363,
+    "Madinah": 668.981986652279,
+    "Eastern": 1656.1018269352583,
+    "Tabuk": 475.80238160448215,
+    "Asir": 672.6264576913505,
+    "Qassim": 482.07116525291076,
+    "Al-Jouf": 479.7091011956928
+   },
+   "regions_seg": {
+    "Riyadh": 4320.754171853238,
+    "Makkah": 3743.011991675988,
+    "Madinah": 150.0,
+    "Eastern": 450.0,
+    "Tabuk": 300.0,
+    "Asir": 150.0,
+    "Qassim": 150.0,
+    "Al-Jouf": 675.3050278316848
+   },
+   "open": {
+    "cc": [
+     "Riyadh",
+     "Jeddah",
+     "Mecca",
+     "Medina",
+     "Dammam",
+     "Tabuk",
+     "Abha",
+     "Buraidah",
+     "Hafar Al-Batin",
+     "Sakakah",
+     "Al Kharj"
+    ],
+    "sc": [
+     "Riyadh",
+     "Jeddah",
+     "Sakakah"
+    ]
+   },
+   "sc_slots": {
+    "Riyadh": 6,
+    "Jeddah": 6,
+    "Sakakah": 6
+   },
+   "Z1": 8087499.603788182,
+   "Z2": 94.9999999999999,
+   "Z3": 9939.071191360908,
+   "total": 9939.07119136091,
+   "low": 5444.3600696375515,
+   "low_share": 54.777352579683864,
+   "wide": 2779.1910923967152,
+   "wide_share": 27.962281775508377,
+   "sc_low": 300.0,
+   "low_share_seg": 51.99999999999999,
+   "wide_share_seg": 14.340424778027216,
+   "floor": 52.0
+  },
+  {
+   "lam": 0.44999999999999724,
+   "regions": {
+    "Riyadh": 2838.609294788101,
+    "Makkah": 2665.1689772408363,
+    "Madinah": 668.981986652279,
+    "Eastern": 1656.1018269352583,
+    "Tabuk": 475.80238160448215,
+    "Asir": 672.6264576913505,
+    "Qassim": 482.07116525291076,
+    "Al-Jouf": 479.7091011956928
+   },
+   "regions_seg": {
+    "Riyadh": 3823.800612285192,
+    "Makkah": 4106.87858477726,
+    "Madinah": 150.0,
+    "Eastern": 450.0,
+    "Tabuk": 300.0,
+    "Asir": 150.0,
+    "Qassim": 150.0,
+    "Al-Jouf": 808.3919942984588
+   },
+   "open": {
+    "cc": [
+     "Riyadh",
+     "Jeddah",
+     "Mecca",
+     "Medina",
+     "Dammam",
+     "Tabuk",
+     "Abha",
+     "Buraidah",
+     "Hafar Al-Batin",
+     "Sakakah",
+     "Al Kharj"
+    ],
+    "sc": [
+     "Riyadh",
+     "Jeddah",
+     "Sakakah"
+    ]
+   },
+   "sc_slots": {
+    "Riyadh": 6,
+    "Jeddah": 6,
+    "Sakakah": 6
+   },
+   "Z1": 8075105.671453148,
+   "Z2": 94.9999999999999,
+   "Z3": 9939.071191360908,
+   "total": 9939.07119136091,
+   "low": 5444.3600696375515,
+   "low_share": 54.777352579683864,
+   "wide": 2779.1910923967152,
+   "wide_share": 27.962281775508377,
+   "sc_low": 300.0,
+   "low_share_seg": 56.99999999999999,
+   "wide_share_seg": 15.679452982015272,
+   "floor": 57.0
+  },
+  {
+   "lam": 0.4500000000000013,
+   "regions": {
+    "Riyadh": 2838.609294788101,
+    "Makkah": 2665.1689772408363,
+    "Madinah": 668.981986652279,
+    "Eastern": 1656.1018269352583,
+    "Tabuk": 475.80238160448215,
+    "Asir": 672.6264576913505,
+    "Qassim": 482.07116525291076,
+    "Al-Jouf": 479.7091011956928
+   },
+   "regions_seg": {
+    "Riyadh": 3326.8470527171457,
+    "Makkah": 4311.383611650179,
+    "Madinah": 150.0,
+    "Eastern": 450.0,
+    "Tabuk": 300.0,
+    "Asir": 150.0,
+    "Qassim": 150.0,
+    "Al-Jouf": 1100.840526993587
+   },
+   "open": {
+    "cc": [
+     "Riyadh",
+     "Jeddah",
+     "Mecca",
+     "Medina",
+     "Dammam",
+     "Tabuk",
+     "Abha",
+     "Buraidah",
+     "Hafar Al-Batin",
+     "Sakakah",
+     "Al Kharj"
+    ],
+    "sc": [
+     "Riyadh",
+     "Jeddah",
+     "Sakakah"
+    ]
+   },
+   "sc_slots": {
+    "Riyadh": 6,
+    "Jeddah": 6,
+    "Sakakah": 6
+   },
+   "Z1": 8058361.9470774755,
+   "Z2": 94.9999999999999,
+   "Z3": 9939.07119136091,
+   "total": 9939.07119136091,
+   "low": 5444.3600696375515,
+   "low_share": 54.777352579683864,
+   "wide": 2779.1910923967152,
+   "wide_share": 27.962281775508377,
+   "sc_low": 300.0,
+   "low_share_seg": 62.00000000000001,
+   "wide_share_seg": 18.621866081433712,
+   "floor": 62.0
+  }
+ ],
+ "solve_log": [
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 23.33991312980652
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.6179778575897217
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 24.11193609237671
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.674699068069458
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 5.090233325958252
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.04675579071044922
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.5222177505493164
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.0432281494140625
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.5846977233886719
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.4627668857574463
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 1.3503515720367432
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.5200750827789307
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 6.853990316390991
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.7019314765930176
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.08513212203979492
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.047142744064331055
+  },
+  {
+   "status": "Infeasible",
+   "sol_status": -1,
+   "seconds": 0.04521894454956055
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 4.479872226715088
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.5757060050964355
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 1.0598523616790771
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.8249943256378174
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 1.3124613761901855
+  },
+  {
+   "status": "Optimal",
+   "sol_status": 1,
+   "seconds": 0.6643199920654297
+  },
+  {
+   "status": "Infeasible",
+   "sol_status": -1,
+   "seconds": 0.04086661338806152
+  }
+ ]
+}

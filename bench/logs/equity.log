@@ -1,0 +1,11 @@
+420 of 430 configurations feasible under the reference schedule
+best (['Riyadh', 'Jeddah', 'Yanbu'], 6956009, 0.45468)
+stage1 (['Riyadh', 'Jeddah', 'Sakakah'], 6952393, 0.45431)
+best_equity (['Riyadh', 'Jeddah', 'Yanbu'], 6956009, 0.45468)
+best_equity_wide (['Riyadh', 'Jeddah', 'Yanbu'], 6956009, 0.45468)
+n_equity 420
+n_equity_wide 420
+equity_cost_pct 0.0
+equity_wide_cost_pct 0.0
+decomposition_gap_pct 0.05199120771999401
+spread_pct 11.976544821855692
